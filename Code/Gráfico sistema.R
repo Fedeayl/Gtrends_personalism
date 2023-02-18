@@ -1,19 +1,13 @@
 ########## CÁLCULO DEL ÍNDICE A NIVEL SISTÉMICO ##########
 
-Base <- rio::import(here::here("Data", "Base Candidatos LA.xlsx"))
-Extr <- rio::import(here::here("Data", "Extraccion1-feb12.csv"))
+Extr <- rio::import(here::here("Data", "Index_Sistema_2023-02-18.csv"))
 
-Base <- left_join(Base, Extr)
 
-Base$Index_ponderado <- Base$indicador*Base$`Votes%_1st`
-
-Sistema <- doBy::summary_by(Base, Index_ponderado~Country+Year, 
-                 FUN = sum, na.rm=T)
-
-G1 <- ggplot(Sistema, aes(x=as.numeric(Year), y=Index_ponderado.sum))+
-        geom_col()+
+G1 <- ggplot(Extr, aes(x=as.numeric(Year), y=Index_ponderado.sum))+
+        geom_line()+
         facet_wrap("Country",  ncol = 3) +
-        labs(title = "") +
+        labs(title = "") + 
+        ylim (0,1) +
         xlab("")+
         ylab("Índice de personalismo sistémico")+
         labs(color = "") + 
@@ -26,3 +20,11 @@ G1 <- ggplot(Sistema, aes(x=as.numeric(Year), y=Index_ponderado.sum))+
               text=element_text(size=10, family="Cambria"))
 G1
 
+# Exporto el resultado
+rio::export(Sistema, file = here::here("Data", "Ext1-feb12.csv"),format = "csv")
+
+
+jpeg(filename = here::here("Figures", "g1-feb12.jpg"), 
+     width = 1500, height = 1900, res = 300)
+G1
+dev.off()

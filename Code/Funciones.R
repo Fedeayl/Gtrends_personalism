@@ -24,8 +24,6 @@ extractgoogle <- function(x1,x2,y,z){
 
 #### Cálculo sobre la extracción ####
 
-needednames <- c("Candidate","Party", "Date", "GEO_code")
-
 
 Personalism_index <- function(Extraction, Data){
         
@@ -54,6 +52,50 @@ Personalism_index <- function(Extraction, Data){
         # Creo variable Year para agrupar
         x$year <- as.numeric(format(x$date,'%Y')) 
         
+        
+        # Arreglo el problema cuando hay cambios en el año de extracción para la misma elección
+        # Muy poco elegante solución
+        
+        x$year <- ifelse(x$geo == "CO" & x$year == 2021, 2022, x$year)
+        x$year <- ifelse(x$geo == "CO" & x$year == 2017, 2018, x$year)
+        x$year <- ifelse(x$geo == "CO" & x$year == 2013, 2014, x$year)
+        x$year <- ifelse(x$geo == "CO" & x$year == 2009, 2010, x$year)
+        x$year <- ifelse(x$geo == "CO" & x$year == 2005, 2006, x$year)
+        
+        x$year <- ifelse(x$geo == "CR" & x$year == 2021, 2022, x$year)
+        x$year <- ifelse(x$geo == "CR" & x$year == 2017, 2018, x$year)
+        x$year <- ifelse(x$geo == "CR" & x$year == 2013, 2014, x$year)
+        x$year <- ifelse(x$geo == "CR" & x$year == 2009, 2010, x$year)
+        x$year <- ifelse(x$geo == "CR" & x$year == 2005, 2006, x$year)      
+        
+        x$year <- ifelse(x$geo == "DO" & x$year == 2011, 2012, x$year) 
+        
+        x$year <- ifelse(x$geo == "EC" & x$year == 2020, 2021, x$year) 
+        x$year <- ifelse(x$geo == "EC" & x$year == 2016, 2017, x$year) 
+        x$year <- ifelse(x$geo == "EC" & x$year == 2012, 2013, x$year) 
+        x$year <- ifelse(x$geo == "EC" & x$year == 2008, 2009, x$year)
+        
+        x$year <- ifelse(x$geo == "SV" & x$year == 2018, 2019, x$year)
+        x$year <- ifelse(x$geo == "SV" & x$year == 2013, 2014, x$year)
+        x$year <- ifelse(x$geo == "SV" & x$year == 2008, 2009, x$year)
+        
+        x$year <- ifelse(x$geo == "PA" & x$year == 2018, 2019, x$year)
+        x$year <- ifelse(x$geo == "PA" & x$year == 2013, 2014, x$year)
+        x$year <- ifelse(x$geo == "PA" & x$year == 2008, 2009, x$year)
+        
+        x$year <- ifelse(x$geo == "PY" & x$year == 2017, 2018, x$year)
+        x$year <- ifelse(x$geo == "PY" & x$year == 2012, 2013, x$year)
+        x$year <- ifelse(x$geo == "PY" & x$year == 2007, 2008, x$year)
+        
+        x$year <- ifelse(x$geo == "PE" & x$year == 2020, 2021, x$year)
+        x$year <- ifelse(x$geo == "PE" & x$year == 2015, 2016, x$year)
+        x$year <- ifelse(x$geo == "PE" & x$year == 2010, 2011, x$year)
+        x$year <- ifelse(x$geo == "PE" & x$year == 2005, 2006, x$year)
+        
+        x$year <- ifelse(x$geo == "VE" & x$year == 2017, 2018, x$year)
+        x$year <- ifelse(x$geo == "VE" & x$year == 2012, 2013, x$year)
+        
+
         # Resumo por año y sumo hits
         Sum <- doBy::summary_by(x, hits~keyword+geo+year, FUN=sum, na.rm=T)
         
