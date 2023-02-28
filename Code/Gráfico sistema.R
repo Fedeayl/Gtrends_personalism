@@ -1,6 +1,6 @@
 ########## CÁLCULO DEL ÍNDICE A NIVEL SISTÉMICO ##########
-
-Extr <- rio::import(here::here("Data", "Index_Sistema_2023-02-18.csv"))
+library(ggplot2)
+Extr <- rio::import(here::here("Data", "System_2023-02-18.csv"))
 
 
 G1 <- ggplot(Extr, aes(x=as.numeric(Year), y=Index_ponderado.sum))+
@@ -20,11 +20,8 @@ G1 <- ggplot(Extr, aes(x=as.numeric(Year), y=Index_ponderado.sum))+
               text=element_text(size=10, family="Cambria"))
 G1
 
-# Exporto el resultado
-rio::export(Sistema, file = here::here("Data", "Ext1-feb12.csv"),format = "csv")
 
-
-jpeg(filename = here::here("Figures", "g1-feb12.jpg"), 
+jpeg(filename = here::here("Figures", "g1-feb18.jpg"), 
      width = 1500, height = 1900, res = 300)
 G1
 dev.off()

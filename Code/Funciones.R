@@ -17,32 +17,14 @@ extractgoogle <- function(x1,x2,y,z){
 # gprop = "web" refiere solamente a las búsquedas web (no YouTube, por ejemplo)
 
 
-
-### FUNCIÓN PARA ARMADO DE BASE FINAL ###
-# La intención aquí es crear la función que, a partir de los datos extraidos, 
-# los agrega y calcula el índice de personalismo.
-
-#### Cálculo sobre la extracción ####
+### FUNCIÓN PARA PASAR LISTA A DF ### 
+# simplemente un resumen para no complicar el código
 
 
-Personalism_index <- function(Extraction, Data){
+unlistGtrend <- function(x){
         
         require(rlist)
         require(dplyr)
-        require(doBy)
-        
-        x <- Extraction
-        y <- Data
-        
-        stopifnot(is.list(x)) # la entrada debe ser tipo lista
-        
-        needednames <- c("Candidate","Party") # Nombres de Date
-        
-        if (sum(names(y) %in% needednames) < 2) {
-                stop("Data debe contener las siguientes variables: 
-                     Candidate, Party")
-        }
-        
         
         # Vuelvo a dataframe para operar más fácil
         x <- unlist(x, recursive = F)
@@ -95,6 +77,40 @@ Personalism_index <- function(Extraction, Data){
         x$year <- ifelse(x$geo == "VE" & x$year == 2017, 2018, x$year)
         x$year <- ifelse(x$geo == "VE" & x$year == 2012, 2013, x$year)
         
+        return(x)
+        
+}
+
+
+
+### FUNCIÓN PARA ARMADO DE BASE FINAL ###
+# La intención aquí es crear la función que, a partir de los datos extraidos, 
+# los agrega y calcula el índice de personalismo.
+
+#### Cálculo sobre la extracción ####
+
+
+Personalism_index <- function(Extraction, Data){
+        
+        require(rlist)
+        require(dplyr)
+        require(doBy)
+        
+        x <- Extraction
+        y <- Data
+        
+        stopifnot(is.list(x)) # la entrada debe ser tipo lista
+        
+        needednames <- c("Candidate","Party") # Nombres de Date
+        
+        if (sum(names(y) %in% needednames) < 2) {
+                stop("Data debe contener las siguientes variables: 
+                     Candidate, Party")
+        }
+        
+        
+        # Paso a dataframe para poder operar 
+        x <- unlistGtrend(x)
 
         # Resumo por año y sumo hits
         Sum <- doBy::summary_by(x, hits~keyword+geo+year, FUN=sum, na.rm=T)

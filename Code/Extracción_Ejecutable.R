@@ -3,6 +3,8 @@
 ######            Y CÁLCULO DEL ÍNDICE DE PERSONALISMO        ######
 ######                  SEGMENTADO MANUALMENTE                ######
 
+library(dplyr)
+library(purrr)
 # Importo Base
 Base <- rio::import(here::here("Data", "Base Candidatos LA.xlsx"))
 
@@ -78,6 +80,8 @@ ext8L <- with(ext8, list(Candidate, Party, Date, GEO_code))
 E8 <- purrr::pmap(.l =ext8L , .f = extractgoogle)
 Sys.sleep(05)
 
+b <- Sys.time() # Hora de finalización
+
 # Realizo el cálculo sobre la extracción
 E1p <- Personalism_index(Extraction=E1, Data=ext1)
 E2p <- Personalism_index(E2, ext2)
@@ -88,9 +92,20 @@ E6p <- Personalism_index(E6, ext6)
 E7p <- Personalism_index(E7, ext7)
 E8p <- Personalism_index(E8, ext8)
 
-b <- Sys.time() # Hora de finalización
 
-# Junto las tablas
+
+# Junto las data frames
+
+# Primero, para las series diarias, tal cual extraídas
+
+Daily <- unlistGtrend(E1) |> full_join(unlistGtrend(E2)) |> 
+        full_join(unlistGtrend(E3)) |> full_join(unlistGtrend(E4)) |> 
+        full_join(unlistGtrend(E5)) |> full_join(unlistGtrend(E6)) |> 
+        full_join(unlistGtrend(E7)) |> full_join(unlistGtrend(E8))
+
+rio::export(Daily, file = here::here("Data", paste0("Daily","_",Sys.Date(),".csv")),format = "csv")
+
+# Segundo, para el índice calculado a nivel de partido
 
 Index <- E1p |> full_join(E2p) |> full_join(E3p) |> 
                 full_join(E4p) |> full_join(E5p) |> 
@@ -98,10 +113,10 @@ Index <- E1p |> full_join(E2p) |> full_join(E3p) |>
                 full_join(E8p)
 
 # Exporto la extracción
-rio::export(Index, file = here::here("Data", paste0("Ext","_",Sys.Date(),".csv")),format = "csv")
+rio::export(Index, file = here::here("Data", paste0("Party","_",Sys.Date(),".csv")),format = "csv")
 
 
-# Calculo el índice de personalismo a nivel de sistema
+# Tercero, ya con el cálculo del índice de personalismo a nivel de sistema
 
 Iagregado <- left_join(Base, Index)
 
@@ -111,7 +126,7 @@ Iagregado <- doBy::summary_by(Iagregado, Index_ponderado~Country+Year,
                             FUN = sum, na.rm=T)
 
 # Exporto el resultado a nivel sistema
-rio::export(Iagregado, file = here::here("Data", paste0("Index_Sistema","_",Sys.Date(),".csv")),format = "csv")
+rio::export(Iagregado, file = here::here("Data", paste0("System","_",Sys.Date(),".csv")),format = "csv")
 
 
 
