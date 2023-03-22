@@ -1,0 +1,648 @@
+Candidate,Party,Date,GEO_code,Year,hits.candidate,hits.party,indicador
+Alberto Fernández,Frente de Todos,2019-04-30 2019-10-27,AR,2019,1472,470,0.757981462409887
+Mauricio Macri,Juntos por el Cambio,2019-04-30 2019-10-27,AR,2019,3578,475,0.882802862077473
+Roberto Lavagna,Consenso Federal,2019-04-30 2019-10-27,AR,2019,1144,417,0.732863549007047
+Nicolás del Caño,Frente de Izquierda,2019-04-30 2019-10-27,AR,2019,1349,1810,0.427033871478316
+Juan José Gómez Centurión,Frente NOS,2019-04-30 2019-10-27,AR,2019,689,828,0.454185893210283
+José Luis Espert,Unite por la Libertad y la Dignidad,2019-04-30 2019-10-27,AR,2019,885,1339,0.397931654676259
+Mauricio Macri,Cambiemos,2015-04-28 2015-10-25,AR,2015,2284,898,0.717787554996857
+Daniel Scioli,Frente para la Victoria,2015-04-28 2015-10-25,AR,2015,2962,1360,0.68533086534012
+Sergio Massa,Unidos por una Nueva Alternativa,2015-04-28 2015-10-25,AR,2015,2837,392,0.878600185816042
+Nicolás del Caño,Frente de Izquierda y de los Trabajadores,2015-04-28 2015-10-25,AR,2015,1112,1119,0.498431196772748
+Margarita Stolbizer,Progresistas,2015-04-28 2015-10-25,AR,2015,1627,425,0.792884990253411
+Alberto Rodriguez Saa,Compromiso Federal,2015-04-28 2015-10-25,AR,2015,1775,1344,0.569092657903174
+Cristina Fernández,Frente para la Victoria,2011-04-26 2011-10-23,AR,2011,1064,2503,0.298289879450519
+Hermes Binner,Frente Amplio Progresista,2011-04-26 2011-10-23,AR,2011,1442,1034,0.582390953150242
+Ricardo Alfonsin,Alianza Union para el Dessarrollo Social,2011-04-26 2011-10-23,AR,2011,1839,0,1
+Alberto Rodriguez Saa,Compromiso Federal,2011-04-26 2011-10-23,AR,2011,1656,1175,0.584952313670081
+Eduardo Duhalde,Frente Popular,2011-04-26 2011-10-23,AR,2011,2144,1806,0.542784810126582
+Jorge Altamira,Frente de Izquierda y de los Trabajadores,2011-04-26 2011-10-23,AR,2011,1815,1146,0.612968591691996
+Elis Carrio,Coalicion Civica,2011-04-26 2011-10-23,AR,2011,0,2124,0
+Cristina Fernández,Frente para la Victoria,2007-05-01 2007-10-28,AR,2007,1168,1936,0.376288659793814
+Elisa Carrió,Confederación Coalicion Civica,2007-05-01 2007-10-28,AR,2007,1383,0,1
+Roberto Lavagna,Una Nacion Avanzada,2007-05-01 2007-10-28,AR,2007,1293,1461,0.469498910675381
+Alberto Rodríguez Saá,"Frente Justicia, Union y Libertad",2007-05-01 2007-10-28,AR,2007,1447,0,1
+Fernando Solanas,Partido Socialista Autentico,2007-05-01 2007-10-28,AR,2007,1116,938,0.543330087633885
+Jorge Omar Sobisch,Movimiento Provincias Unidas,2007-05-01 2007-10-28,AR,2007,1510,0,1
+Ricardo López Murphy,Recrear para el Crecimiento,2007-05-01 2007-10-28,AR,2007,1263,0,1
+Vilma Ripoll,Movimiento Socialista de los Trabajadores,2007-05-01 2007-10-28,AR,2007,1227,1517,0.447157434402332
+Néstor Pitrola,Partido Obrero,2007-05-01 2007-10-28,AR,2007,868,834,0.509988249118684
+José Alberto Montes,Alianza Frente Izquierda Socialista,2007-05-01 2007-10-28,AR,2007,,,
+Luis Alberto Ammann,Alianza Frente Amplio Hacia la Unidad,2007-05-01 2007-10-28,AR,2007,1719,0,1
+Raúl Castells,Movimiento Independiente de Jubilados y Desocupados,2007-05-01 2007-10-28,AR,2007,647,1190,0.352204681545999
+Gustavo Breide Obeid,Partido Popular de la Reconstrucción,2007-05-01 2007-10-28,AR,2007,1073,980,0.522649780808573
+Juan Ricardo Mussa,Confederación Lealtad Popular,2007-05-01 2007-10-28,AR,2007,886,0,1
+Luis Arce Catacora,Movimiento al Socialismo,2020-04-21 2020-10-18,BO,2020,1235,1301,0.48698738170347
+Carlos Mesa Gisbert,Frente Revolucionario de Izquierda,2020-04-21 2020-10-18,BO,2020,1286,1946,0.39789603960396
+Luis Fernando Camacho,Creemos,2020-04-21 2020-10-18,BO,2020,1465,997,0.595044679122665
+Chi Hyun Chung,Frente para la Victoria,2020-04-21 2020-10-18,BO,2020,900,789,0.532859680284192
+Feliciano Mamani,Partido de Acción Nacional,2020-04-21 2020-10-18,BO,2020,1325,0,1
+Evo Morales,Movimiento al Socialismo,2019-04-23 2019-10-20,BO,2019,910,1020,0.471502590673575
+Carlos Mesa Gisbert,Comunidad Ciudadana,2019-04-23 2019-10-20,BO,2019,1310,1410,0.481617647058824
+Chi Hyun Chung,Partido Demócrata Cristiano,2019-04-23 2019-10-20,BO,2019,1199,1148,0.510864933958245
+Oscar Ortiz Antelo,Bolivia Dice No,2019-04-24 2019-10-21,BO,2019,1541,1332,0.53637312913331
+Félix Patzi,Movimiento Tercer Sistema,2019-04-25 2019-10-22,BO,2019,1290,907,0.587164314974966
+Virginio Lema,Movimiento Nacionalista Revolucionario,2019-04-26 2019-10-23,BO,2019,1129,1191,0.486637931034483
+Ruth Nina,Partido de Acción Nacional Boliviano,2019-04-27 2019-10-24,BO,2019,811,0,1
+Victor Hugo Cárdenas,Unidad Cívica Solidaridad,2019-04-28 2019-10-25,BO,2019,1594,0,1
+Israel Franklin Rodríguez,Frente para la Victoria,2019-04-23 2019-10-20,BO,2019,0,1334,0
+Evo Morales,Movimiento al Socialismo,2014-04-15 2014-10-12,BO,2014,810,587,0.579813886900501
+Samuel Doria Medina,Frente de Unidad Nacional,2014-04-15 2014-10-12,BO,2014,903,918,0.495881383855025
+Jorge Quiroga,Partido Democrata Cristiano,2014-04-15 2014-10-12,BO,2014,736,721,0.505147563486616
+Juan del Granado,Movimiento Sin Miedo,2014-04-15 2014-10-12,BO,2014,781,658,0.542738012508687
+Fernando Vargas,Partido Verde de Bolivia,2014-04-15 2014-10-12,BO,2014,664,297,0.690946930280957
+Evo Morales,Movimiento al Socialismo,2009-06-09 2009-12-06,BO,2009,926,736,0.557160048134777
+Manfred Reyes Villa,Plan Progreso para Bolivia,2009-06-09 2009-12-06,BO,2009,1226,0,1
+Samuel Doria Medina,Frente de Unidad Nacional,2009-06-09 2009-12-06,BO,2009,1680,1704,0.49645390070922
+Rene Joaquino,Alianza Social,2009-06-09 2009-12-06,BO,2009,969,0,1
+Ana Maria Flores,Movimiento de Unidad Social Patriotica,2009-06-09 2009-12-06,BO,2009,1050,0,1
+Roman Loayza,GENTE,2009-06-09 2009-12-06,BO,2009,1788,1261,0.586421777632011
+Alejo Veliz,Pueblos por la Libertad y Soberania,2009-06-09 2009-12-06,BO,2009,,,
+Rime Choquehuanca,Bolivia Social Democrata,2009-06-09 2009-12-06,BO,2009,,,
+Evo Morales,Movimiento al Socialismo,2005-04-21 2005-10-18,BO,2005,1119,1025,0.521921641791045
+Jorge Quiroga,Poder Democrático y Social,2005-04-21 2005-10-18,BO,2005,1400,0,1
+Samuel Doria Medina,Frente de Unidad Nacional,2005-04-21 2005-10-18,BO,2005,1225,1363,0.473338485316847
+Michiaki Nagatani Morishita,Movimiento Nacionalista Revolucionario,2005-04-21 2005-10-18,BO,2005,0,1062,0
+Felipe Quispe Huanca,Movimiento Indígena Pachakuti,2005-04-21 2005-10-18,BO,2005,1643,0,1
+Gildo Angulo Cabrera,Nueva Fuerza Republicana,2005-04-21 2005-10-18,BO,2005,,,
+Eliceo Rodríguez Pari,Frente Patriótico Agrepecuario de Bolivia,2005-04-21 2005-10-18,BO,2005,,,
+Néstor García Rojas,Unión Social de los Trabajadores de Bolivia,2005-04-21 2005-10-18,BO,2005,,,
+Luiz Lula da Silva,Partido dos Trabalhadores,2022-04-05 2022-10-02,BR,2022,835,1518,0.354866128346791
+Jair Bolsonaro,Partido Liberal,2022-04-05 2022-10-02,BR,2022,1436,103,0.933073424301494
+Simone Tebet,Movimiento Democrático Brasileiro,2022-04-05 2022-10-02,BR,2022,369,0,1
+Ciro Gomes,Partido Democrático Trabalhista,2022-04-05 2022-10-02,BR,2022,946,7,0.992654774396642
+Soraya Thronicke,União Brasil,2022-04-05 2022-10-02,BR,2022,470,326,0.590452261306533
+Luiz Felipe D'Ávila,Partido Novo,2022-04-05 2022-10-02,BR,2022,49,581,0.0777777777777778
+Luiz Cláudio Gamonal,Partido Trabalhista Brasileiro,2022-04-05 2022-10-02,BR,2022,1219,1455,0.455871353777113
+Leonardo Péricles,Unidade Popular,2022-04-05 2022-10-02,BR,2022,743,628,0.541940189642597
+Antonio Alves da Silva,Partido Comunista Brasileiro,2022-04-05 2022-10-02,BR,2022,1636,2202,0.426263678999479
+Künã Yporã Tremembé,Partido Socialista dos Trabalhadores Unificado,2022-04-05 2022-10-02,BR,2022,0,1367,0
+João Barbosa Bravo,Democracia Cristiã,2022-04-05 2022-10-02,BR,2022,,,
+Jair Bolsonaro,Partido Social Liberal,2018-04-10 2018-10-07,BR,2018,1377,2,0.998549673676577
+Fernando Haddad,Partido dos Trabalhadores,2018-04-10 2018-10-07,BR,2018,1198,196,0.859397417503587
+Ciro Ferreira Gomes,Partido Democrático Trabalhista,2018-04-10 2018-10-07,BR,2018,1270,1259,0.502174772637406
+Geraldo Alckmin,Partido da Social Democracia Brasileiro,2018-04-10 2018-10-07,BR,2018,1800,0,1
+João Amoêdo,Partido Novo,2018-04-10 2018-10-07,BR,2018,24,512,0.0447761194029851
+Benevenuto Daciolo,Patriota,2018-04-10 2018-10-07,BR,2018,487,1279,0.275764439411099
+Henrique Meirelles,Movimiento Democrático Brasileiro,2018-04-10 2018-10-07,BR,2018,1302,0,1
+Marina Silva Vaz,Rede Sustentabilidade,2018-04-10 2018-10-07,BR,2018,1282,1403,0.477467411545624
+Álvaro Fernandes Dias,Podemos,2018-04-10 2018-10-07,BR,2018,0,932,0
+Guilherme Castro Boulos,Partido Socialismo e Libertade,2018-04-10 2018-10-07,BR,2018,1791,0,1
+Vera Lúcia Salgado,Partido Socialista dos Trabalhadores Unificado,2018-04-10 2018-10-07,BR,2018,0,1171,0
+José Maria Eymael,Democracia Cristã,2018-04-10 2018-10-07,BR,2018,1345,1429,0.484859408795963
+João Vicente Goulart,Partido Pátria Livre,2018-04-10 2018-10-07,BR,2018,785,1171,0.401329243353783
+Dilma Rousseff,Partido dos Trabalhadores,2014-04-08 2014-10-05,BR,2014,820,80,0.911111111111111
+Aecio Neves,Partido da Social Democracia Brasileiro,2014-04-08 2014-10-05,BR,2014,519,0,1
+Marina Silva,Partido Socialista Brasileiro,2014-04-08 2014-10-05,BR,2014,733,26,0.965744400527009
+Luciana Genro,Partido Socialismo e Libertade,2014-04-08 2014-10-05,BR,2014,621,0,1
+Everaldo Pereira,Partido Social Cristão,2014-04-08 2014-10-05,BR,2014,916,763,0.545562835020846
+Eduardo Jorge,Partido Verde,2014-04-08 2014-10-05,BR,2014,548,77,0.8768
+Levy Fidelix,Partido Renovador Trabalhista Brasileiro,2014-04-08 2014-10-05,BR,2014,589,127,0.822625698324022
+José Marcelo Ferreira,Partido Socialista dos Trabalhadores Unificado,2014-04-08 2014-10-05,BR,2014,1184,1141,0.509247311827957
+Jose Maria Eymael,Partido Social Democrata Cristão,2014-04-08 2014-10-05,BR,2014,1157,0,1
+Mauro Iasi,Partido Comunista Brasileiro,2014-04-08 2014-10-05,BR,2014,984,1005,0.494720965309201
+Rui Costa Pimenta,Partido da Causa Operária,2014-04-08 2014-10-05,BR,2014,656,370,0.639376218323587
+Dilma Rousseff,Partido dos Trabalhadores,2010-04-06 2010-10-03,BR,2010,1994,226,0.898198198198198
+Jose Serra,Partido da Social Democracia Brasileiro,2010-04-06 2010-10-03,BR,2010,1179,0,1
+Marina Silva,Partido Verde,2010-04-06 2010-10-03,BR,2010,481,149,0.763492063492063
+Plinio de Arruda Sampaio,Partido Socialismo e Libertade,2010-04-06 2010-10-03,BR,2010,972,0,1
+Jose Maria Eymael,Partido Social Democrata Cristão,2010-04-06 2010-10-03,BR,2010,1602,0,1
+Jose Maria de Almeida,Partido Socialista dos Trabalhadores Unificado,2010-04-06 2010-10-03,BR,2010,796,1125,0.414367516918272
+Levy Fidelix,Partido Renovador Trabalhista Brasileiro,2010-04-06 2010-10-03,BR,2010,885,927,0.48841059602649
+Ivan Pinheiro,Partido Comunista Brasileiro,2010-04-06 2010-10-03,BR,2010,1203,721,0.625259875259875
+Rui Costa Pimenta,Partido da Causa Operária,2010-04-06 2010-10-03,BR,2010,1532,932,0.621753246753247
+Luiz Inácio Lula da Silva,Partido dos Trabalhadores,2006-04-04 2006-10-01,BR,2006,536,1235,0.302653867871259
+Geraldo Alckmin,Partido da Social Democracia Brasileira,2006-04-04 2006-10-01,BR,2006,1430,787,0.645015787099684
+Heloísa Helena,Partido Socialismo e Libertade,2006-04-04 2006-10-01,BR,2006,1755,0,1
+Cristovam Buarque,Partido Democrático Trabalhista,2006-04-04 2006-10-01,BR,2006,844,705,0.544867656552615
+Ana Maria Rangel,Partido Republicano Progesista,2006-04-04 2006-10-01,BR,2006,1368,0,1
+José Maria Eymael,Partido Social Democrata Cristão,2006-04-04 2006-10-01,BR,2006,1542,0,1
+Luciano Bivar,Partido Social Liberal,2006-04-04 2006-10-01,BR,2006,1576,1079,0.593596986817326
+José Antonio Kast,Partido Republicano de Chile,2021-05-25 2021-11-21,CL,2021,1166,1525,0.433296172426607
+Gabriel Boric,Convergencia Social,2021-05-25 2021-11-21,CL,2021,562,345,0.619625137816979
+Franco Parisi,Partido de la Gente,2021-05-25 2021-11-21,CL,2021,337,463,0.42125
+Yasna Provoste,Partido Demócrata Cristiano,2021-05-25 2021-11-21,CL,2021,845,686,0.551926845199216
+Marco Enríquez Ominami,Partido Progresista,2021-05-25 2021-11-21,CL,2021,1105,1430,0.435897435897436
+Eduardo Artés,Unión Patriótica,2021-05-25 2021-11-21,CL,2021,1130,1015,0.526806526806527
+Sebastian Piñera,Chile Vamos,2017-05-23 2017-11-19,CL,2017,1826,479,0.792190889370933
+Alejandro Guillier,La Fuerza de la Mayoría,2017-05-23 2017-11-19,CL,2017,1732,930,0.650638617580766
+Beatriz Sanchez,Frente Amplio,2017-05-23 2017-11-19,CL,2017,306,689,0.307537688442211
+Carolina Goic,Partido Democrata Cristiano,2017-05-23 2017-11-19,CL,2017,1601,1741,0.479054458408139
+Marco Enriquez Ominami,Partido Progresista,2017-05-23 2017-11-19,CL,2017,1188,1077,0.524503311258278
+Eduardo Artes,Union Patriotica,2017-05-23 2017-11-19,CL,2017,1179,1313,0.473113964686998
+Alejandro Navarro,Pais,2017-05-23 2017-11-19,CL,2017,1561,1802,0.464168896818317
+Michelle Bachelet Jeria,Partido Socialista de Chile,2013-05-21 2013-11-17,CL,2013,1124,1158,0.492550394390885
+Evelyn Matthei Fornet,Unión Demócrata Independiente,2013-05-21 2013-11-17,CL,2013,1354,1423,0.487576521425999
+Marco Enriquez Ominami,Partido Progresista,2013-05-21 2013-11-17,CL,2013,1710,1523,0.528920507268791
+Marcel Claude,Partido Humanista,2013-05-21 2013-11-17,CL,2013,1754,1374,0.56074168797954
+Alfredo Sfeir,Partido Ecologista Verde,2013-05-21 2013-11-17,CL,2013,894,1369,0.395050817498895
+Roxana Miranda,Partido Igualdad,2013-05-21 2013-11-17,CL,2013,753,846,0.470919324577861
+Ricardo Israel,Partido Regionalista de los Independientes,2013-05-21 2013-11-17,CL,2013,1631,1554,0.512087912087912
+Sebastian Piñera,Renovacion Nacional,2009-06-16 2009-12-13,CL,2009,1179,517,0.695165094339623
+Eduardo Frei Ruiz,Concertacion Democratica,2009-06-16 2009-12-13,CL,2009,1970,0,1
+Jorge Arrate,Partido Comunista de Chile,2009-06-16 2009-12-13,CL,2009,1025,1406,0.421637186343069
+Michelle Bachelet,Partido Socialista de Chile,2005-06-14 2005-12-11,CL,2005,1063,1107,0.489861751152074
+Sebastián Piñera,Renovación Nacional,2005-06-14 2005-12-11,CL,2005,376,242,0.608414239482201
+Joaquín Lavín,Unión Demócrata Independiente,2005-06-14 2005-12-11,CL,2005,1164,1362,0.460807600950119
+Tomás Hirsch,Partido Humanista,2005-06-14 2005-12-11,CL,2005,803,745,0.518733850129199
+Gustavo Petro,Coalición Pacto Histórico,2021-11-30 2022-05-29,CO,2022,1508,100,0.937810945273632
+Rodolfo Hernández,Liga Gobernantes Anticorrupción,2021-11-30 2022-05-29,CO,2022,689,255,0.729872881355932
+Federico Gutiérrez,Coalición Equipo por Colombia,2021-11-30 2022-05-29,CO,2022,1499,872,0.632222690847744
+Sergio Fajardo,Coalición Centro Esperanza,2021-11-30 2022-05-29,CO,2022,1143,897,0.560294117647059
+John Milton Rodríguez,Colombia Justa Libres,2021-11-30 2022-05-29,CO,2022,795,1104,0.418641390205371
+Enrique Gómez Martínez,Movimiento de Salvación Nacional,2021-11-30 2022-05-29,CO,2022,784,918,0.460634547591069
+Íngrid Betancourt,Partido Verde Oxígeno,2021-11-30 2022-05-29,CO,2022,899,1082,0.453811206461383
+Luis Pérez,Colombia Piensa en Grande,2021-11-30 2022-05-29,CO,2022,1098,804,0.577287066246057
+Ivan Duque,Centro Democratico,2017-11-28 2018-05-27,CO,2018,223,398,0.359098228663446
+Gustavo Petro,Movimiento Progresistas,2017-11-28 2018-05-27,CO,2018,2212,239,0.902488780089759
+Sergio Fajardo,Compromiso Ciudadano,2017-11-28 2018-05-27,CO,2018,1755,479,0.785586392121755
+Germán Vargas Lleras,Cambio Radical,2017-11-28 2018-05-27,CO,2018,132,563,0.189928057553957
+Humberto de la Calle,Partido Liberal Colombiano,2017-11-28 2018-05-27,CO,2018,1652,1282,0.56305385139741
+Jorge Antonio Trujillo,Todos Somos Colombia,2017-11-28 2018-05-27,CO,2018,1242,1277,0.493052798729655
+Viviane Morales Hoyos,Somos Region Colombia,2017-11-28 2018-05-27,CO,2018,903,1118,0.446808510638298
+Juan Manuel Santos,Partido Social de Unidad Nacional,2013-11-26 2014-05-25,CO,2014,1168,760,0.605809128630705
+Oscar Ivan Zuluaga,Centro Democratico,2013-11-26 2014-05-25,CO,2014,257,516,0.332470892626132
+Marta Lucia Ramirez,Partido Conservador Colombiano,2013-11-26 2014-05-25,CO,2014,1122,807,0.581648522550544
+Clara Lopez,Polo Democrático Alternativo,2013-11-26 2014-05-25,CO,2014,1028,314,0.76602086438152
+Enrique Peñalosa,Partido Verde Colombiano,2013-11-26 2014-05-25,CO,2014,1215,1020,0.543624161073826
+Juan Manuel Santos,Partido Social de Unidad Nacional,2009-12-01 2010-05-30,CO,2010,1337,926,0.590808661069377
+Antanas Mockus,Partido Verde,2009-12-01 2010-05-30,CO,2010,658,893,0.424242424242424
+Germán Vargas Lleras,Partido Cambio Radical,2009-12-01 2010-05-30,CO,2010,943,1248,0.430397078959379
+Gustavo Petro,Polo Democrático Alternativo,2009-12-01 2010-05-30,CO,2010,1724,1104,0.60961810466761
+Noemí Sanín,Partido Conservador Colombiano,2009-12-01 2010-05-30,CO,2010,872,1176,0.42578125
+Rafael Pardo,Partido Liberal Colombiano,2009-12-01 2010-05-30,CO,2010,628,772,0.448571428571429
+Jairo Calderón,Partido Político Apertura Liberal,2009-12-01 2010-05-30,CO,2010,987,0,1
+Robinson Devia,Movimiento La Voz de la Consciencia,2009-12-01 2010-05-30,CO,2010,1658,0,1
+Jaime Araujo,Alianza Social Afrocolombiana,2009-12-01 2010-05-30,CO,2010,1423,0,1
+Álvaro Uribe,Primero Colombia,2005-11-29 2006-05-28,CO,2006,1115,1171,0.487751531058618
+Carlos Gaviria Díaz,Polo Democrático Alternativo,2005-11-29 2006-05-28,CO,2006,531,720,0.424460431654676
+Horacio Uribe,Partido Liberal Colombiano,2005-11-29 2006-05-28,CO,2006,700,752,0.482093663911846
+Antanas Mockus,Movimiento Alianza Social Independiente,2005-11-29 2006-05-28,CO,2006,583,0,1
+Enrique Parejo González,Reconstrucción Democrática Nacional,2005-11-29 2006-05-28,CO,2006,778,0,1
+Álvaro Leyva,Movimiento Nacional de Reconciliación,2005-11-29 2006-05-28,CO,2006,476,0,1
+Carlos Arturo Rincón,Movimiento Politico Comunal y Comunidad Colombiano,2005-11-29 2006-05-28,CO,2006,,,
+José María Figueres,Partido Liberación Nacional,2021-08-10 2022-02-06,CR,2022,1428,1371,0.510182207931404
+Rodrigo Chaves,Progreso Social Democrático,2021-08-10 2022-02-06,CR,2022,660,822,0.445344129554656
+Fabricio Alvarado,Partido Nueva República,2021-08-10 2022-02-06,CR,2022,1281,1274,0.501369863013699
+Eliécer Feinzaig,Partido Liberal Progresista,2021-08-10 2022-02-06,CR,2022,669,680,0.49592290585619
+Franco Pacheco Arce,Partido Unidad Social Cristiana,2021-08-10 2022-02-06,CR,2022,0,1155,0
+José María Villalta,Frente Amplio,2021-08-10 2022-02-06,CR,2022,804,1326,0.377464788732394
+Rolando Araya Monge,Costa Rica Justa,2021-08-10 2022-02-06,CR,2022,1406,1400,0.501069137562366
+Greivin Moya Carpio,Partido Fuerza Nacional,2021-08-10 2022-02-06,CR,2022,0,1509,0
+Natalia Díaz Quintana,Unidos Podemos,2021-08-10 2022-02-06,CR,2022,1397,1210,0.535864978902954
+Walter Ramos González,Partido Acción Ciudadana,2021-08-10 2022-02-06,CR,2022,0,1322,0
+Óscar López Arias,Partido Accesibilidad Sin Exclusión,2021-08-10 2022-02-06,CR,2022,,,
+Rodolfo Hernández,Partido Republicano Social Cristiano,2021-08-10 2022-02-06,CR,2022,1130,1106,0.505366726296959
+Sergio Mena,Partido Nueva Generación,2021-08-10 2022-02-06,CR,2022,1107,1003,0.524644549763033
+Eduardo Cruickshank,Partido Restauración Nacional,2021-08-10 2022-02-06,CR,2022,1289,1127,0.533526490066225
+Carmen Quesada,Justicia Social Costarricense,2021-08-10 2022-02-06,CR,2022,1161,1604,0.419891500904159
+Federico Malavassi,Unión Liberal,2021-08-10 2022-02-06,CR,2022,1548,1316,0.540502793296089
+Maricela Morales Mora,Unión Costarricense Democrática,2021-08-10 2022-02-06,CR,2022,1411,876,0.616965456930477
+Christian Rivera Paniagua,Alianza Democrática Cristiana,2021-08-10 2022-02-06,CR,2022,1210,0,1
+Óscar Campos Chavarría,Partido Encuentro Nacional,2021-08-10 2022-02-06,CR,2022,0,1139,0
+Rodolfo Piza Rocafort,Partido Nuestro Pueblo,2021-08-10 2022-02-06,CR,2022,907,930,0.493739793140991
+Walter Muñoz Céspedes,Partido Integración Nacional,2021-08-10 2022-02-06,CR,2022,0,1921,0
+Roulan Jiménez Chavarría,Partido Movimiento Social Demócrata Costarricense,2021-08-10 2022-02-06,CR,2022,,,
+Jhonn Vega Masís,Partido de los Trabajadores,2021-08-10 2022-02-06,CR,2022,0,1305,0
+Martón Chinchilla Castro,Pueblo Unido,2021-08-10 2022-02-06,CR,2022,0,1279,0
+Luis Alberto Cordero Arias,Movimiento Libertario,2021-08-10 2022-02-06,CR,2022,1580,1124,0.584319526627219
+Fabricio Alvarado Quesada,Partido Accion Ciudadana,2017-08-08 2018-02-04,CR,2018,0,1359,0
+Carlos Alvarado Muñóz,Partido Restauración Nacional,2017-08-08 2018-02-04,CR,2018,0,1328,0
+Antonio Alvarez,Partido Liberacion Nacional,2017-08-08 2018-02-04,CR,2018,1515,1729,0.467016029593095
+Rodolfo Piza Rocafort,Partido Unidad Social Cristiana,2017-08-08 2018-02-04,CR,2018,1339,1035,0.564026958719461
+Juan Diego Castro,Partido Integración Nacional,2017-08-08 2018-02-04,CR,2018,1294,1459,0.470032691609154
+Rodolfo Hernandez,Partido Republicano Socialcristiano,2017-08-08 2018-02-04,CR,2018,1417,0,1
+Otto Guevara Guth,Partido Movimiento Libertario,2017-08-08 2018-02-04,CR,2018,757,778,0.493159609120521
+Edgardo Araya,Frente Amplio,2017-08-08 2018-02-04,CR,2018,1167,1608,0.420540540540541
+Sergio Mena,Partido Nueva Generación,2017-08-08 2018-02-04,CR,2018,1204,1415,0.459717449408171
+Mario Redondo,Alianza Democrata Cristiana,2017-08-08 2018-02-04,CR,2018,948,844,0.529017857142857
+Stephanie Campos,Partido Renovación Costarricense,2017-08-08 2018-02-04,CR,2018,1088,1004,0.520076481835564
+Óscar López,Partido Accesibilidad sin Exclusión,2017-08-08 2018-02-04,CR,2018,,,
+Jhon Vega,Partido de los Trabajadores,2017-08-08 2018-02-04,CR,2018,1155,1617,0.416666666666667
+Luis Guillermo Solis,Partido Accion Ciudadana,2013-08-06 2014-02-02,CR,2014,1418,1045,0.575720665854649
+Johnny Aray Monge,Partido Liberacion Nacional,2013-08-06 2014-02-02,CR,2014,0,1505,0
+Jose Maria Villalta,Frente Amplio,2013-08-06 2014-02-02,CR,2014,1267,2089,0.377532777115614
+Otto Guevara,Partido Movimiento Libertario,2013-08-06 2014-02-02,CR,2014,1467,1254,0.539140022050717
+Rodolfo Piza Rocafort,Partido Unidad Social Cristiana,2013-08-06 2014-02-02,CR,2014,1409,915,0.606282271944923
+Jose Miguel Corrales,Partido Patria Nueva,2013-08-06 2014-02-02,CR,2014,576,876,0.396694214876033
+Carlos Avendaño,Partido Restauración Nacional,2013-08-06 2014-02-02,CR,2014,940,1564,0.375399361022364
+Justo Orozco,Partido Renovación Costarricense,2013-08-06 2014-02-02,CR,2014,1164,1121,0.509409190371991
+Óscar López,Partido Accesibilidad sin Exclusión,2013-08-06 2014-02-02,CR,2014,,,
+Sergio Mena,Partido Nueva Generación,2013-08-06 2014-02-02,CR,2014,1302,1263,0.507602339181287
+Héctor Monestel,Partido de los Trabajadores,2013-08-06 2014-02-02,CR,2014,1338,1739,0.434839129021774
+Walter Muñoz,Partido Integración Nacional,2013-08-06 2014-02-02,CR,2014,1047,934,0.528520949015649
+José Echandi,Partido Avance Nacional,2013-08-06 2014-02-02,CR,2014,0,1691,0
+Laura Chinchilla,Liberacion Nacional,2009-08-11 2010-02-07,CR,2010,930,1025,0.475703324808184
+Ottón Solís,Accion Ciudadana,2009-08-11 2010-02-07,CR,2010,696,1365,0.337700145560408
+Otto Guevara,Movimiento Libertario,2009-08-11 2010-02-07,CR,2010,1622,1521,0.516067451479478
+Luis Fishman,Unidad Social Cristiana,2009-08-11 2010-02-07,CR,2010,1122,921,0.549192364170338
+Óscar López,Partido Accesibilidad sin Exclusión,2009-08-11 2010-02-07,CR,2010,,,
+Mayra González,Renovacion Costarricense,2009-08-11 2010-02-07,CR,2010,0,1537,0
+Eugenio Trejos,Frente Amplio,2009-08-11 2010-02-07,CR,2010,1209,824,0.594687653713724
+Rolando Araya,Alianza Patriotica,2009-08-11 2010-02-07,CR,2010,1206,1430,0.457511380880121
+Walter Muñoz,Integracion Nacional,2009-08-11 2010-02-07,CR,2010,1309,0,1
+Óscar Arias,Partido Liberación Nacional,2005-08-09 2006-02-05,CR,2006,1230,922,0.571561338289963
+Ottón Solís,Partido Acción Ciudadana,2005-08-09 2006-02-05,CR,2006,490,657,0.42720139494333
+Otto Guevara Guth,Movimiento Libertario,2005-08-09 2006-02-05,CR,2006,1114,1436,0.436862745098039
+Ricardo Toledo,Partido de Unidad Socialcristiana,2005-08-09 2006-02-05,CR,2006,817,0,1
+Antonio Álvarez Desanti,Partido Unión para el Cambio,2005-08-09 2006-02-05,CR,2006,1040,0,1
+Jose Manuel Echandi Meza,Partido Unión Nacional,2005-08-09 2006-02-05,CR,2006,,,
+Juan Jose Vargas Fallas,Partido Patria Primero,2005-08-09 2006-02-05,CR,2006,,,
+Bolivar Serrano Hildago,Renovación Costarricense,2005-08-09 2006-02-05,CR,2006,0,1037,0
+Walter Muñoz Cespedes,Integración Nacional,2005-08-09 2006-02-05,CR,2006,0,743,0
+José Miguel Villalobor,Alianza Democratica Nacionalista,2005-08-09 2006-02-05,CR,2006,,,
+Vladimir de Cruz de Lemos,Fuerza Democratica,2005-08-09 2006-02-05,CR,2006,,,
+Alvaro Montero Mejia,Rescate Nacional,2005-08-09 2006-02-05,CR,2006,1123,1125,0.499555160142349
+Humberto Vargas Carbonell,Coalición Izquierda Unida,2005-08-09 2006-02-05,CR,2006,1617,0,1
+José Humberto Arce,Union Patriotica,2005-08-09 2006-02-05,CR,2006,,,
+Luis Abinader,Partido Revolucionario Moderno,2020-01-07 2020-07-05,DO,2020,1182,1205,0.495182237117721
+Gonzálo Castillo,Partido de la Liberación Dominicana,2020-01-07 2020-07-05,DO,2020,0,1576,0
+Leonel Fernández,Fuerza del Pueblo,2020-01-07 2020-07-05,DO,2020,1514,1337,0.531041739740442
+Guillermo Moreno,Alianza País,2020-01-07 2020-07-05,DO,2020,1244,546,0.694972067039106
+Ismael Reyes,Partido Demócrata Institucional,2020-01-07 2020-07-05,DO,2020,1154,0,1
+Juan Cohen,Partido Nacional Voluntad Ciudadana,2020-01-07 2020-07-05,DO,2020,1262,1089,0.536792854104636
+Danilo Medina,Partido de la Liberación Dominicana,2015-11-17 2016-05-15,DO,2016,1126,915,0.551690347868692
+Luis Abinader,Partido Revolucionario Moderno,2015-11-17 2016-05-15,DO,2016,618,548,0.530017152658662
+Guillermo Moreno,Alianza País,2015-11-17 2016-05-15,DO,2016,1047,665,0.611565420560748
+Elías Wessin Chávez,Partido Quisqueyano Demócrata Cristiano,2015-11-17 2016-05-15,DO,2016,,,
+Minou Tavárez Mirabal,Alianza por la Democrácia,2015-11-17 2016-05-15,DO,2016,848,0,1
+Hatuey de Camps,Partido Revolucionario Social Demócrata,2015-11-17 2016-05-15,DO,2016,1098,0,1
+Soraya Aquino,Partido de la Unidad Nacional,2015-11-17 2016-05-15,DO,2016,1317,0,1
+Danilo Medina,Partido de la Liberacion Dominicana,2011-11-22 2012-05-20,DO,2012,1599,948,0.627797408716137
+Hipolita Mejia,Partido Revolucionario Dominicano,2011-11-22 2012-05-20,DO,2012,0,765,0
+Guillermo Moreno,Alianza Pais,2011-11-22 2012-05-20,DO,2012,1301,887,0.594606946983547
+Eduardo Estrella,Partido Dominicanos por el Cambio,2011-11-22 2012-05-20,DO,2012,1153,0,1
+Julián Serulle,Frente Amplio,2011-11-22 2012-05-20,DO,2012,0,1873,0
+Max Puig,Alianza por la Democracia,2011-11-22 2012-05-20,DO,2012,1392,1100,0.558587479935795
+Leonel Fernandez,Partido de la Liberacion Dominicana,2008-02-18 2008-08-16,DO,2008,903,1172,0.435180722891566
+Miguel Vargas Maldonado,Partido Revolucionario Dominicano,2008-02-18 2008-08-16,DO,2008,1042,1392,0.42810188989318
+Amable Aristy,Partido Reformista Social Cristiano,2008-02-18 2008-08-16,DO,2008,1088,700,0.608501118568233
+Eduardo Estrella,Partido Revolucionario Socialdemocrata,2008-02-18 2008-08-16,DO,2008,1617,0,1
+Guillermo Moreno,"Movimiento Independencia, Unidad y Cambio",2008-02-18 2008-08-16,DO,2008,1373,0,1
+Pedro de Jesus Candelier,Partido Alianza Popular,2008-02-18 2008-08-16,DO,2008,1234,0,1
+Trajano Santana,Partido Revolucionario Independiente,2008-02-18 2008-08-16,DO,2008,1044,0,1
+Leonel Fernández,Partido de la Liberacion Dominicana,2004-01-01 2004-05-16,DO,2004,680,654,0.509745127436282
+Hipólito Mejía,Partido Revolucionario Dominicano,2004-01-01 2004-05-16,DO,2004,723,626,0.535952557449963
+Eduardo Estrella,Partido Reformista Social Cristiano,2004-01-01 2004-05-16,DO,2004,746,758,0.496010638297872
+Guillermo Lasso,Movimiento Creando Oportunidades,2020-11-22 2021-05-21,EC,2021,1108,1007,0.52387706855792
+Andrés Arauz,Unión por la Esperanza,2020-11-22 2021-05-21,EC,2021,1591,1202,0.569638381668457
+Yaku Pérez,Movimiento de Unidad Plurinacional Pachakutik,2020-11-22 2021-05-21,EC,2021,567,590,0.490060501296456
+Xavier Hervas,Izquierda Democrática,2020-11-22 2021-05-21,EC,2021,1467,658,0.690352941176471
+Pedro José Freile,Movimiento Acción Movilizadora Independiente Generando Oportunidades,2020-11-22 2021-05-21,EC,2021,1646,0,1
+Isidro Romero,Partido Político Avanza,2020-11-22 2021-05-21,EC,2021,1434,1177,0.549214860206817
+Lucio Gutiérrez,Partido Sociedad Patriótica 21 de Enero,2020-11-22 2021-05-21,EC,2021,1376,0,1
+Gerson Almeida,Movimiento Ecuatoriano Unido,2020-11-22 2021-05-21,EC,2021,1512,1217,0.554049102235251
+Ximena Peña,Movimiento Alianza Patria Altiva I Soberana,2020-11-22 2021-05-21,EC,2021,1137,0,1
+Guillermo Celi,Partido Sociedad Unida Más Acción,2020-11-22 2021-05-21,EC,2021,1053,991,0.515166340508806
+Juan Fernando Velasco,Movimento Construye,2020-11-22 2021-05-21,EC,2021,1290,0,1
+César Montúfar,Alianza Honestidad,2020-11-22 2021-05-21,EC,2021,1024,911,0.529198966408269
+Gustavo Larrea,Movimiento Democracia SI,2020-11-22 2021-05-21,EC,2021,1234,0,1
+Carlos Sagnay,Partido Fuerza EC,2020-11-22 2021-05-21,EC,2021,1169,930,0.556931872320152
+Giovanny Andrade,Movimiento Unión Ecuatoriana,2020-11-22 2021-05-21,EC,2021,1169,1387,0.45735524256651
+Paúl Carrasco,Juntos Podemos,2020-11-22 2021-05-21,EC,2021,723,1105,0.395514223194748
+Lenin Moreno,Alianza Patria Altiva i Soberana,2016-11-25 2017-05-24,EC,2017,1810,0,1
+Guillermo Lasso,Creando Oportunidades,2016-11-25 2017-05-24,EC,2017,1326,1316,0.501892505677517
+Cynthia Viteri,Partido Social Cristiano,2016-11-25 2017-05-24,EC,2017,1650,1263,0.566426364572606
+Paco Moncayo,Acuerdo Nacional por el Cambio,2016-11-25 2017-05-24,EC,2017,1655,1581,0.511433868974042
+Abdala Bucaram,Fuerza Ecuador,2016-11-25 2017-05-24,EC,2017,895,562,0.614275909402883
+Ivan Espinel Molina,Fuerza Compromiso Social,2016-11-25 2017-05-24,EC,2017,825,821,0.501215066828676
+Patricio Zuquilanda,Partido Sociedad Patriotica,2016-11-25 2017-05-24,EC,2017,698,1023,0.405578152237071
+Washington Pesantez,Movimiento Union Ecuatoriana,2016-11-25 2017-05-24,EC,2017,445,784,0.362082994304312
+Rafael Correa,Alianza Patria Altiva i Soberana,2012-08-21 2013-02-17,EC,2013,1370,0,1
+Guillermo Lasso,Creando Oportunidades,2012-08-21 2013-02-17,EC,2013,986,870,0.53125
+Lucio Gutiérrez,Partido Sociedad Patriótica 21 de Enero,2012-08-21 2013-02-17,EC,2013,1682,0,1
+Mauricio Rodas,Partido Suma,2012-08-21 2013-02-17,EC,2013,1042,806,0.563852813852814
+Álvaro Noboa,Partido Renovador Institucional de Acción Nacional,2012-08-21 2013-02-17,EC,2013,1162,0,1
+Alberto Acosta,Unidad Plurinacional de las Izquierdas,2012-08-21 2013-02-17,EC,2013,963,944,0.504981646565286
+Norman Wray,Movimiento Ruptura 25,2012-08-21 2013-02-17,EC,2013,1286,0,1
+Nelson Zavala,Partido Roldosista Ecuatoriano,2012-08-21 2013-02-17,EC,2013,1439,1204,0.544457056375331
+Rafael Correa,Alianza Patria Altiva i Soberana,2008-10-28 2009-04-26,EC,2009,1345,0,1
+Lucio Gutiérrez,Partido Sociedad Patriótica 21 de Enero,2008-10-28 2009-04-26,EC,2009,1033,0,1
+Álvaro Noboa,Partido Renovador Institucional de Acción Nacional,2008-10-28 2009-04-26,EC,2009,623,0,1
+Martha Roldós,Etica y Democracia,2008-10-28 2009-04-26,EC,2009,907,1084,0.455549974886992
+Carlos Sagñay de la Bastida,Movimiento Triunfo Mil,2008-10-28 2009-04-26,EC,2009,,,
+Melba Yolanda Jácome,Movimiento Tierra Fértil,2008-10-28 2009-04-26,EC,2009,,,
+Diego Delgado Jara,Movimiento Integración Social,2008-10-28 2009-04-26,EC,2009,939,0,1
+Carlos González Albornoz,Movimiento Justo y Solidario,2008-10-28 2009-04-26,EC,2009,,,
+Alvaro Noboa,Partido Renovador Institucional Acción Nacional,2006-04-18 2006-10-15,EC,2006,930,0,1
+Rafael Correa,Movimiento Alianza PAIS,2006-04-18 2006-10-15,EC,2006,1015,1182,0.461993627674101
+Gilmar Gutiérrez Borbúa,Partido Sociedad Patriótica,2006-04-18 2006-10-15,EC,2006,0,1076,0
+León Roldós,Izqueirda Democrática,2006-04-18 2006-10-15,EC,2006,938,0,1
+Cynthia Viteri,Partido Social Cristiano,2006-04-18 2006-10-15,EC,2006,908,797,0.532551319648094
+Luis Macas,Movimiento de Unidad Plurinacional Pachakutik,2006-04-18 2006-10-15,EC,2006,1086,713,0.60366870483602
+Fernando Rosero,Partido Roldosista Ecuatoriano,2006-04-18 2006-10-15,EC,2006,1168,834,0.583416583416583
+Marco Proaño Maya,Movimiento de Reivindicación Democrática,2006-04-18 2006-10-15,EC,2006,893,0,1
+Luis Villacís,Movimiento Popular Democrático,2006-04-18 2006-10-15,EC,2006,,,
+Jaime Damerval,Concentración de fuerzas populares,2006-04-18 2006-10-15,EC,2006,1093,0,1
+Marcelo Larrea Cabrera,Alianza ALBA Tercera República,2006-04-18 2006-10-15,EC,2006,,,
+Lenin Torres,Movimiento Revolucionario Participación Popular,2006-04-18 2006-10-15,EC,2006,1217,0,1
+Carlos Sagñay de la Bastida,Integración Nacional Alfarista,2006-04-18 2006-10-15,EC,2006,,,
+Nayib Bukele,Gran Alianza por la Unidad Nacional,2018-08-07 2019-02-03,SV,2019,1311,1342,0.494157557482096
+Carlos Calleja,Alianza Republicana Nacionalista,2018-08-07 2019-02-03,SV,2019,1079,1054,0.505860290670417
+Hugo Martínez,Frente Farabundo Martí para la Liberación Nacional,2018-08-07 2019-02-03,SV,2019,1420,1335,0.515426497277677
+Josué Alvarado,Vamos,2018-08-07 2019-02-03,SV,2019,1221,914,0.571896955503513
+Salvador Sanchez Ceren,Frente Farabundo Martí para la Liberación Nacional,2013-08-06 2014-02-02,SV,2014,1187,1203,0.496652719665272
+Norman Quijano,Alianza Republicana Nacionalista,2013-08-06 2014-02-02,SV,2014,1982,1476,0.573163678426836
+Antonio Saca,Movimiento Unidad,2013-08-06 2014-02-02,SV,2014,1190,1129,0.513152220784821
+René Rodriguez Hurtado,Partido Salvadoreño Progresista,2013-08-06 2014-02-02,SV,2014,0,1404,0
+Óscar Lemus,Fraternidad Patriota Salvadoreña,2013-08-06 2014-02-02,SV,2014,0,1245,0
+Mauricio Funes,Frente Farabundo Martí para la Liberación Nacional,2008-09-16 2009-03-15,SV,2009,819,832,0.496062992125984
+Rodrigo Avila,Alianza Republicana Nacionalista,2008-09-16 2009-03-15,SV,2009,1862,1533,0.548453608247423
+Antonio Saca,Alianza Republicana Nacionalista,2004-01-01 2004-03-21,SV,2004,479,405,0.541855203619909
+Schafik Jorge Handal,Frente Farabundo Martí para la Liberación Nacional,2004-01-01 2004-03-21,SV,2004,0,319,0
+Héctor Silva Argüello,Centro Democrático Unido,2004-01-01 2004-03-21,SV,2004,,,
+José Rafael Machuca,Partido de Conciliación Nacional,2004-01-01 2004-03-21,SV,2004,,,
+Alejandro Giammattei,Vamos,2018-12-18 2019-06-16,GT,2019,535,1061,0.335213032581454
+Sandra Torres,Unidad Nacional de la Esperanza,2018-12-18 2019-06-16,GT,2019,1279,1286,0.498635477582846
+Edmond Mulet,Partido Humanista de Guatemala,2018-12-18 2019-06-16,GT,2019,1376,1112,0.553054662379421
+Thelma Cabrera,Movimiento para la Liberación de los Pueblos,2018-12-18 2019-06-16,GT,2019,717,898,0.443962848297214
+Roberto Arzú,Partido Avanzada Nacional,2018-12-18 2019-06-16,GT,2019,1086,1369,0.442362525458248
+Isaac Franchi,Visión con Valores,2018-12-18 2019-06-16,GT,2019,0,914,0
+Manuel Villacorta,Movimiento Político WINAQ,2018-12-18 2019-06-16,GT,2019,2286,0,1
+Estuardo Galdámez,Frente de Convergencia Nacional,2018-12-18 2019-06-16,GT,2019,992,1622,0.379495026778883
+Julio Héctor Estrada,"Compromiso, Renovación y Orden",2018-12-18 2019-06-16,GT,2019,869,0,1
+Fredy Cabrera,Todos,2018-12-18 2019-06-16,GT,2019,1107,1497,0.425115207373272
+Amílcar Rivera,Victoria,2018-12-18 2019-06-16,GT,2019,675,592,0.5327545382794
+Pablo Ceto,Unidad Revolucionaria Nacional Guatemalteca,2018-12-18 2019-06-16,GT,2019,1040,1205,0.463251670378619
+Pablo Duarte,Partido Unionista,2018-12-18 2019-06-16,GT,2019,1056,811,0.56561328334226
+Manfredo Marroquín,Encuentro por Guatemala,2018-12-18 2019-06-16,GT,2019,829,966,0.461838440111421
+Anibal García,Libre,2018-12-18 2019-06-16,GT,2019,1052,1642,0.390497401633259
+Benito Morales,Convergencia,2018-12-18 2019-06-16,GT,2019,1303,1871,0.41052299936988
+Luis Velásquez,Unidos,2018-12-18 2019-06-16,GT,2019,0,1718,0
+José Luis Chea Urrela,Partido Productividad y Trabajo,2018-12-18 2019-06-16,GT,2019,0,1409,0
+Danilo Roca,Avanza,2018-12-18 2019-06-16,GT,2019,1086,1262,0.46252129471891
+Jimmy Morales,Frente de Convergencia Nacional,2015-03-10 2015-09-06,GT,2015,2014,1333,0.601732895129967
+Sandra Torres Casanova,Unidad Nacional de la Esperanza,2015-03-10 2015-09-06,GT,2015,1343,898,0.599286033020973
+Manuel Baldizón,Libertad Democratica Renovada,2015-03-10 2015-09-06,GT,2015,1057,0,1
+Alejandro Giammattei,FUERZA,2015-03-10 2015-09-06,GT,2015,1073,822,0.56622691292876
+Zury Ríos,Vision con Valores,2015-03-10 2015-09-06,GT,2015,1133,1286,0.468375361719719
+Lizardo Sosa,Partido Todos,2015-03-10 2015-09-06,GT,2015,918,1934,0.321879382889201
+Mario David García Velásquez,Partido Patriota,2015-03-10 2015-09-06,GT,2015,0,2363,0
+Roberto González Diaz Durán,Compromiso Renovacion y Orden,2015-03-10 2015-09-06,GT,2015,,,
+Mario Estrada Orellana,Union del Cambio Nacional,2015-03-10 2015-09-06,GT,2015,1207,0,1
+Juan Guillermo Gutiérrez,Partido de Avanzada Nacional,2015-03-10 2015-09-06,GT,2015,1866,1548,0.546572934973638
+Miguel Ángel Sandoval,Winaq,2015-03-10 2015-09-06,GT,2015,0,1271,0
+José Ángel López,Encuentro por Guatemala,2015-03-10 2015-09-06,GT,2015,0,1614,0
+Luis Fernando Pérez,Partido Republicano Institutiocional,2015-03-10 2015-09-06,GT,2015,,,
+Aníbal García,Movimiento Nueva República,2015-03-10 2015-09-06,GT,2015,,,
+Otto Perez Molina,Partido Patriotico,2011-03-15 2011-09-11,GT,2011,1602,0,1
+Manuel Baldizon,Libertad Democratica Renovada,2011-03-15 2011-09-11,GT,2011,1369,0,1
+Eduardo Suger,Compromiso Renovacion y Orden,2011-03-15 2011-09-11,GT,2011,1507,0,1
+Mario Estrada,Union del Cambio Nacional,2011-03-15 2011-09-11,GT,2011,1750,0,1
+Harold Caballeros,Encuentro por Guatemala,2011-03-15 2011-09-11,GT,2011,1704,1629,0.511251125112511
+Rigoberta Menchu Tum,Winaq,2011-03-15 2011-09-11,GT,2011,870,846,0.506993006993007
+Juan Gutierrez,Partido de Avanzada Nacional,2011-03-15 2011-09-11,GT,2011,913,1086,0.456728364182091
+Patricia de Arzu,Partido Unionista,2011-03-15 2011-09-11,GT,2011,1419,1841,0.435276073619632
+Alejandro Giammettei,Centro de Acción Social,2011-03-15 2011-09-11,GT,2011,,,
+Adela de Torrebiarte,Accion de Desarrollo Nacional,2011-03-15 2011-09-11,GT,2011,1450,0,1
+Alvaro Colom,Unidad Nacional de la Esperanza,2007-03-13 2007-09-09,GT,2007,1131,884,0.561290322580645
+Otto Perez Molina,Partido Patriota,2007-03-13 2007-09-09,GT,2007,865,1203,0.418278529980658
+Alejandro Giammattei,Gran Alianza Nacional,2007-03-13 2007-09-09,GT,2007,985,861,0.533586132177681
+Eduardo Suger,Centro de Acción Social,2007-03-13 2007-09-09,GT,2007,1207,0,1
+Luis Rabbe,Frente Republicano Guatemalteco,2007-03-13 2007-09-09,GT,2007,1077,926,0.537693459810285
+Mario Estrada,Union del Cambio Nacionalista,2007-03-13 2007-09-09,GT,2007,2031,0,1
+Rigoberta Menchu,Encuentro por Guatemala,2007-03-13 2007-09-09,GT,2007,920,1080,0.46
+Fritz Garcia Gallont,Partido Unionista,2007-03-13 2007-09-09,GT,2007,732,818,0.472258064516129
+Oscar Castañeda,Partido de Avanzada Nacional,2007-03-13 2007-09-09,GT,2007,0,705,0
+Miguel Angel Sandoval Vasquez,Unidad Revolutionaria Nacional Guatemalteca,2007-03-13 2007-09-09,GT,2007,,,
+Manuel Conde Orellana,Union Democratica,2007-03-13 2007-09-09,GT,2007,513,0,1
+Pablo Monsanto,Alianza Nueva Nacion,2007-03-13 2007-09-09,GT,2007,578,746,0.436555891238671
+Hector Augusto Rosales,Desarrollo Integral Auténtico,2007-03-13 2007-09-09,GT,2007,,,
+Marco Cerezo,Democracia Cristiana Guatemalteca,2007-03-13 2007-09-09,GT,2007,861,0,1
+Xiomara Castro,Partido Libertad y Refundación,2021-06-01 2021-11-28,HN,2021,1486,1235,0.546122748989342
+Nasry Asfura,Partido Nacional de Honduras,2021-06-01 2021-11-28,HN,2021,1615,1619,0.499381570810142
+Yani Rosenthal,Partido Liberal de Honduras,2021-06-01 2021-11-28,HN,2021,1115,1364,0.449778136345301
+Milton Omar Ávila,Honduras Humana,2021-06-01 2021-11-28,HN,2021,0,1576,0
+Carlos Mauricio Portillo,Partido Demócrata Cristiano de Honduras,2021-06-01 2021-11-28,HN,2021,,,
+Romeo Vásquez Velásquez,Alianza Patriótica Hondureña,2021-06-01 2021-11-28,HN,2021,,,
+Kelin Pérez Gómez,Partido Frente Amplio,2021-06-01 2021-11-28,HN,2021,0,1062,0
+Esdras Amado López,Partido Nueva Ruta,2021-06-01 2021-11-28,HN,2021,,,
+Alexander Mira,Unión Opositora de Honduras,2021-06-01 2021-11-28,HN,2021,,,
+Marlon Oniel Escoto,Partido Todos Somos Honduras,2021-06-01 2021-11-28,HN,2021,0,1308,0
+Alfonso Díaz Narváez,Unificación Democrática,2021-06-01 2021-11-28,HN,2021,,,
+Julio César López,Partido Anticorrupción,2021-06-01 2021-11-28,HN,2021,0,2040,0
+José Ramón Coto,Partido Va Movimiento Solidario,2021-06-01 2021-11-28,HN,2021,,,
+Lempira Viana,Partido Liberación Democrático de Honduras,2021-06-01 2021-11-28,HN,2021,842,0,1
+Santos Orlando Orellana,Movimiento Independiente Dignidad y Esperanza,2021-06-01 2021-11-28,HN,2021,,,
+Juan Orlando Hernandez,Partido Nacional,2017-05-15 2017-11-11,HN,2017,1177,1271,0.480800653594771
+Salvador Nasralla,Alianza de Oposición contra la Dictadura,2017-05-15 2017-11-11,HN,2017,633,750,0.457700650759219
+Luis Orlando Zelaya,Partido Liberal de Honduras,2017-05-15 2017-11-11,HN,2017,0,1053,0
+Romeo Vásquez Velásquez,Alianza Patriótica,2017-05-15 2017-11-11,HN,2017,,,
+Marlene Alvarenga,Partido Anti Corrupcion,2017-05-15 2017-11-11,HN,2017,1313,0,1
+Lucas Aguilera,Partido Demócrata Cristiano,2017-05-15 2017-11-11,HN,2017,,,
+Alfonso Diaz Narvaez,Unificación Democrática,2017-05-15 2017-11-11,HN,2017,,,
+Isaias Fonseca,Frente Amplio,2017-05-15 2017-11-11,HN,2017,1236,1355,0.477035893477422
+Eliseo Vallecillo,Va Movimiento Solidario,2017-05-15 2017-11-11,HN,2017,,,
+Juan Orlando Hernandez,Partido Nacional,2013-05-28 2013-11-24,HN,2013,1654,1275,0.564697849095254
+Xiamora Castro,Partido Libertad y Refundacion,2013-05-28 2013-11-24,HN,2013,0,1613,0
+Mauricio Villeda,Partido Liberal de Honduras,2013-05-28 2013-11-24,HN,2013,1710,1500,0.532710280373832
+Salvador Nasralla,Partido Anti Corrupcion,2013-05-28 2013-11-24,HN,2013,1244,0,1
+Romeo Vásquez Velásquez,Alianza Patriótica,2013-05-28 2013-11-24,HN,2013,,,
+Orle Solís,Partido Demócrata Cristiano,2013-05-28 2013-11-24,HN,2013,,,
+Jorge Aguilar Paredes,Partido de Inovación y Unidad Social,2013-05-28 2013-11-24,HN,2013,,,
+Andrés Pavón,Unificación Democrática,2013-05-28 2013-11-24,HN,2013,,,
+Porfirio Lobo,Partido Nacional,2009-06-02 2009-11-29,HN,2009,1398,1212,0.535632183908046
+Elvin Santos,Partido Liberal de Honduras,2009-06-02 2009-11-29,HN,2009,1232,1076,0.533795493934142
+Bernard Martínez,Partido de Inovación y Unidad Social,2009-06-02 2009-11-29,HN,2009,,,
+Felicito Ávila,Partido Demócrata Cristiano de Honduras,2009-06-02 2009-11-29,HN,2009,,,
+César Ham,Partido de Unificación Democrática,2009-06-02 2009-11-29,HN,2009,,,
+Manuel Zelaya,Partido Liberal de Honduras,2005-05-31 2005-11-27,HN,2005,1465,1751,0.455534825870647
+Porfirio Lobo,Partido Nacional de Honduras,2005-05-31 2005-11-27,HN,2005,796,936,0.459584295612009
+Juan Ángel Almendares,Unificación Democrática,2005-05-31 2005-11-27,HN,2005,,,
+Juan Ramón Martínez,Partido Demócrata Cristiano de Honduras,2005-05-31 2005-11-27,HN,2005,,,
+Carlos Sosa Coello,Partido de Inovación y Unidad Social Democracia,2005-05-31 2005-11-27,HN,2005,1556,0,1
+Andrés Manuel López Obrador,Movimiento Regeneración Nacional,2018-01-02 2018-07-01,MX,2018,1551,0,1
+Ricardo Anaya,Partido Accion Nacional,2018-01-02 2018-07-01,MX,2018,1989,854,0.69961308476961
+José Antonio Meade,Partido Revolucionario Institucional,2018-01-02 2018-07-01,MX,2018,1254,3236,0.279287305122494
+Enrique Peña Nieto,Partido Revolucionario Institucional,2012-01-03 2012-07-01,MX,2012,4104,2593,0.612811706734359
+Andrés Manuel López Obrador,Partido Revolucionario Democratico,2012-01-03 2012-07-01,MX,2012,1267,730,0.634451677516274
+Josefina Vazquez Mota,Partido Accion Nacional,2012-01-03 2012-07-01,MX,2012,1387,1950,0.415642792927779
+Gabriel Quadri,Partido Nueva Alianza,2012-01-03 2012-07-01,MX,2012,1673,2138,0.438992390448701
+Felipe Calderón,Partido Acción Nacional,2006-01-03 2006-07-02,MX,2006,926,1025,0.474628395694516
+Andrés Manuel López Obrador,Alianza por el Bien de Todos,2006-01-03 2006-07-02,MX,2006,1167,1243,0.484232365145228
+Roberto Madrazo,Alianza por México,2006-01-03 2006-07-02,MX,2006,3231,1130,0.740885118092181
+Patricia Mercado,Partido Alternativa Socialdemócrata y Campesina,2006-01-03 2006-07-02,MX,2006,2324,0,1
+Roberto Campa,Partido Nueva Alianza,2006-01-03 2006-07-02,MX,2006,1901,1213,0.610468850353243
+Daniel Ortega,Frente Sandinista de Liberación Nacional,2021-05-11 2021-11-07,NI,2021,1142,1060,0.518619436875568
+Walter Espinoza,Partido Liberal Constitucionalista,2021-05-11 2021-11-07,NI,2021,900,1086,0.453172205438067
+Guillermo Osorno,Camino Cristiano Nicaragüense,2021-05-11 2021-11-07,NI,2021,888,0,1
+Gerson Gutiérrez,Alianza por la República,2021-05-11 2021-11-07,NI,2021,,,
+Mauricio Orué,Partido Liberal Independiente,2021-05-11 2021-11-07,NI,2021,0,1208,0
+Marcelo Montiel,Alianza Liberal Nicaragüense,2021-05-11 2021-11-07,NI,2021,,,
+Daniel Ortega,Frente Sandinista de Liberación Nacional,2016-05-10 2016-11-06,NI,2016,1243,1437,0.463805970149254
+Maximino Rodriguez,Partido Liberal Constitucionalista,2016-05-10 2016-11-06,NI,2016,639,557,0.53428093645485
+Jose Alvarado,Partido Liberal Independiente,2016-05-10 2016-11-06,NI,2016,1016,1041,0.493923189110355
+Saturnino Cerrato,Alianza Liberal Nicaragüense,2016-05-10 2016-11-06,NI,2016,1211,0,1
+Erick Cabezas,Partido Conservador,2016-05-10 2016-11-06,NI,2016,840,0,1
+Carlos Canales,Alianza por la Republica,2016-05-10 2016-11-06,NI,2016,,,
+Daniel Ortega,Frente Sandinista de Liberación Nacional,2011-05-10 2011-11-06,NI,2011,918,796,0.53558926487748
+Fabio Gadea Mantilla,Partido Liberal Independiente,2011-05-10 2011-11-06,NI,2011,1021,815,0.556100217864924
+Arnoldo Aleman,Partido Liberal Constitucionalista,2011-05-10 2011-11-06,NI,2011,1041,692,0.600692440854011
+Enrique Quiñonez,Alianza Liberal Nicaragüense,2011-05-10 2011-11-06,NI,2011,1095,0,1
+Miguel Angel Garcia,Alianza por la Republica,2011-05-10 2011-11-06,NI,2011,,,
+Daniel Ortega,Frente Sandinista de Liberación Nacional,2006-05-09 2006-11-05,NI,2006,861,880,0.494543365881677
+Eduardo Montealegre,Alianza Liberal Nicaragüense,2006-05-09 2006-11-05,NI,2006,1215,0,1
+José Rizo Castellón,Partido Liberal Constitucionalista,2006-05-09 2006-11-05,NI,2006,1440,863,0.625271385149805
+Edmundo Jarquín,Movimiento de Renovación Sandinista,2006-05-09 2006-11-05,NI,2006,,,
+Edén Pastora,Alternativa por el Cambio,2006-05-09 2006-11-05,NI,2006,800,0,1
+Laurentino Cortizo,Partido Revolucionario Democrático,2018-11-06 2019-05-05,PA,2019,1267,1347,0.484697781178271
+Rómulo Roux,Cambio Democrático,2018-11-06 2019-05-05,PA,2019,1107,1253,0.46906779661017
+José Isabel Blandón,Partido Panameñista,2018-11-06 2019-05-05,PA,2019,1481,1194,0.553644859813084
+Saúl Méndez,Frente Amplio por la Democracia,2018-11-06 2019-05-05,PA,2019,968,903,0.517370390165687
+Juan Carlos Varela,Partido Panameñista,2013-11-05 2014-05-04,PA,2014,1352,714,0.654404646660213
+Jose Domingo Arias,Cambio Democratico,2013-11-05 2014-05-04,PA,2014,704,951,0.425377643504532
+Juan Carlos Navarro,Partido Revolucionario Democrática,2013-11-05 2014-05-04,PA,2014,1098,0,1
+Genaro López,Frente Amplio por la Democracia,2013-11-05 2014-05-04,PA,2014,0,1500,0
+Ricardo Martinelli,Cambio Democrático,2008-11-04 2009-05-03,PA,2009,1139,1165,0.494357638888889
+Balbina Herrera,Partido Revolucionario Democrática,2008-11-04 2009-05-03,PA,2009,1668,0,1
+Guillermo Endara,Vanguardia Moral de la Patria,2008-11-04 2009-05-03,PA,2009,957,719,0.571002386634845
+Martín Torrijos,Partido Revolucionario Democrática,2004-01-01 2004-05-02,PA,2004,284,0,1
+Guillermo Endara,Partido Solidaridad,2004-01-01 2004-05-02,PA,2004,607,0,1
+José Miguel Alemán,Partido Arnulfista,2004-01-01 2004-05-02,PA,2004,0,631,0
+Ricardo Martinelli,Cambio Democrático,2004-01-01 2004-05-02,PA,2004,553,524,0.513463324048282
+Mario Abdo,Partido Colorado,2017-10-24 2018-04-22,PY,2018,516,722,0.416801292407108
+Efrain Alegre,Partido Liberal Radical Auténtico,2017-10-24 2018-04-22,PY,2018,1242,1192,0.510271158586689
+Juan Bautista Ybañez,Partido Verde Paraguay,2017-10-24 2018-04-22,PY,2018,1464,1454,0.501713502398903
+Jaro Anzoategui,Movimiento Nacional Artistas del Paraguay,2017-10-24 2018-04-22,PY,2018,1436,946,0.602854743912678
+Atanasio Galeano,Partido Patria Libre,2017-10-24 2018-04-22,PY,2018,1196,952,0.556797020484171
+Ramon Benitez,Movimiento Reserva Patriotica,2017-10-24 2018-04-22,PY,2018,1299,910,0.58804889090086
+Pedro Almada,Frente Amplio,2017-10-24 2018-04-22,PY,2018,0,1484,0
+Efrain Enriquez,Movimiento Soberania Nacional,2017-10-24 2018-04-22,PY,2018,,,
+Celina Ferreira,Movimiento Civico Nacional Unamonos,2017-10-24 2018-04-22,PY,2018,,,
+Justo German Ortega,Partido Socialista Democratico Herederos,2017-10-24 2018-04-22,PY,2018,,,
+Horacio Cartes,Partido Colorado,2012-10-23 2013-04-21,PY,2013,1218,1560,0.438444924406048
+Efrain Alegre,Alianza Paraguay Alegre,2012-10-23 2013-04-21,PY,2013,948,0,1
+Marrio Ferreiro,Avanza Pais,2012-10-23 2013-04-21,PY,2013,0,1950,0
+Anibal Carrillo,Frente Guasu,2012-10-23 2013-04-21,PY,2013,1906,1335,0.588090095649491
+Miguel Carrizosa,Partido Patria Querida,2012-10-23 2013-04-21,PY,2013,1031,1448,0.415893505445744
+Lino Oviedo Sánchez,Unión Nacional de Ciudadanos Éticos,2012-10-23 2013-04-21,PY,2013,,,
+Roberto Ferreira,Partido Humanista,2012-10-23 2013-04-21,PY,2013,,,
+Lilian Soto,Movimiento Kuña Pyrenda,2012-10-23 2013-04-21,PY,2013,1010,0,1
+Eduardo Arce,Partido de los Trabajadores,2012-10-23 2013-04-21,PY,2013,,,
+Ricardo Martin Almada,Partido Blanco,2012-10-23 2013-04-21,PY,2013,,,
+Atanasio Galeano,Partido Patria Libre,2012-10-23 2013-04-21,PY,2013,903,1278,0.414030261348006
+Fernando Lugo,Alianza Patriótica para el Cambio,2007-10-23 2008-04-20,PY,2008,1211,0,1
+Blanca Ovelar,Partido Colorado,2007-10-23 2008-04-20,PY,2008,1076,999,0.51855421686747
+Lino Oviedo,Unión Nacional de Ciudadanos Eticos,2007-10-23 2008-04-20,PY,2008,1343,0,1
+Pedro Fadul,Partido Patria Querida,2007-10-23 2008-04-20,PY,2008,693,828,0.455621301775148
+Sergio Martinez Estigarribia,Partido Humanista Paraguayo,2007-10-23 2008-04-20,PY,2008,,,
+Horacio Galeano Perrone,Movimiento Teta Pyahu,2007-10-23 2008-04-20,PY,2008,1675,0,1
+Julio Lopez,Partido de los Trabajadores,2007-10-23 2008-04-20,PY,2008,919,0,1
+Pedro Castillo,Perú Libre,2020-10-13 2021-04-11,PE,2021,369,185,0.666064981949459
+Keiko Fujimori,Fuerza Popular,2020-10-13 2021-04-11,PE,2021,1451,1171,0.553394355453852
+Rafael López Aliaga,Renovación Popular,2020-10-13 2021-04-11,PE,2021,1915,687,0.73597232897771
+Hernando de Soto,Avanza País,2020-10-13 2021-04-11,PE,2021,525,154,0.77319587628866
+Yonhy Lescano,Acción Popular,2020-10-13 2021-04-11,PE,2021,1810,1246,0.592277486910995
+Verónika Mendoza,Juntos por el Perú,2020-10-13 2021-04-11,PE,2021,1075,846,0.55960437272254
+César Acuña,Alianza para el Progreso,2020-10-13 2021-04-11,PE,2021,944,1086,0.465024630541872
+George Forsyth,Victoria Nacional,2020-10-13 2021-04-11,PE,2021,991,948,0.511088189788551
+Daniel Urresti,Podemos Perú,2020-10-13 2021-04-11,PE,2021,1063,852,0.55509138381201
+Julio Guzmán,Partido Morado,2020-10-13 2021-04-11,PE,2021,173,505,0.255162241887906
+Alberto Beingolea,Partido Popular Cristiano,2020-10-13 2021-04-11,PE,2021,1287,1590,0.447340980187696
+Daniel Salaverry,Somos Perú,2020-10-13 2021-04-11,PE,2021,1503,1242,0.547540983606557
+Ollanta Humala,Partido Nacionalista Peruano,2020-10-13 2021-04-11,PE,2021,1597,914,0.63600159299084
+José Vega,Unión por el Perú,2020-10-13 2021-04-11,PE,2021,1405,1449,0.49229152067274
+Ciro Gálvez,Renacimiento Unidad Nacional,2020-10-13 2021-04-11,PE,2021,977,0,1
+Marco Arana,Frente Amplio,2020-10-13 2021-04-11,PE,2021,336,581,0.366412213740458
+Rafael Santos,Perú Patria Segura,2020-10-13 2021-04-11,PE,2021,625,550,0.531914893617021
+Andrés Alcántara,Democracia Directa,2020-10-13 2021-04-11,PE,2021,1176,1185,0.498094027954257
+Keiko Fujimori,Fuerza Popular,2015-10-13 2016-04-10,PE,2016,1675,1265,0.569727891156463
+Pedro Pablo Kuczynski,Peruanos Por el Kambio,2015-10-13 2016-04-10,PE,2016,1598,1025,0.609226077011056
+Verónika Mendoza,Frente Amplio,2015-10-13 2016-04-10,PE,2016,380,782,0.327022375215146
+Alfredo Barnechea,Acción Popular,2015-10-13 2016-04-10,PE,2016,2124,1644,0.563694267515924
+Alan García,Partido Aprista Peruano,2015-10-13 2016-04-10,PE,2016,1275,1368,0.482406356413167
+Gregorio Santos,Democracia Directa,2015-10-13 2016-04-10,PE,2016,1660,901,0.648184303006638
+Fernando Olivera,Frente Esperanza,2015-10-13 2016-04-10,PE,2016,1138,1052,0.519634703196347
+Alejandro Toledo,Perú Posible,2015-10-13 2016-04-10,PE,2016,574,1129,0.337052260716383
+Miguel Hilario,Progresando Perú,2015-10-13 2016-04-10,PE,2016,1521,0,1
+Antero Flores Aráoz,Partido Pólitico Orden,2015-10-13 2016-04-10,PE,2016,1228,0,1
+Ollanta Humala,Gana Peru,2010-10-12 2011-04-10,PE,2011,2133,765,0.736024844720497
+Keiko Fujimori,Fuerza 2011,2010-10-12 2011-04-10,PE,2011,1719,1527,0.529574861367837
+Pedro Pablo Kuczynski,Alianza por el Gran Cambio,2010-10-12 2011-04-10,PE,2011,914,1301,0.412641083521445
+Alejandro Toledo,Peru Posible,2010-10-12 2011-04-10,PE,2011,1448,1675,0.463656740313801
+Luis Castaneda,Alianza Solidaridad Nacional,2010-10-12 2011-04-10,PE,2011,1300,756,0.632295719844358
+Jose Ñique de la Puente,Fonavistas del Peru,2010-10-12 2011-04-10,PE,2011,1131,1682,0.402061855670103
+Ricardo Noriega,Despertar Nacional,2010-10-12 2011-04-10,PE,2011,845,665,0.559602649006623
+Rafael Belaunde,Adelante,2010-10-12 2011-04-10,PE,2011,952,925,0.507192328183271
+Juliana Reymer,Fuerza Nacional,2010-10-12 2011-04-10,PE,2011,679,751,0.474825174825175
+Humberto Pinazo,"Justicia, Tecnologia, Ecologia",2010-10-12 2011-04-10,PE,2011,575,0,1
+Manuel Rodriguez,Partido Descentralista Fuerza Social,2010-10-12 2011-04-10,PE,2011,1326,1230,0.518779342723005
+Ollanta Humala,Unión por el Perú,2005-10-11 2006-04-09,PE,2006,2149,944,0.694794697704494
+Alan García,Partido Aprista Peruano,2005-10-11 2006-04-09,PE,2006,717,1146,0.384863123993559
+Lourdes Flores,Unidad Nacional,2005-10-11 2006-04-09,PE,2006,986,1457,0.403602128530495
+Martha Chavez,Alianza por el Futuro,2005-10-11 2006-04-09,PE,2006,1129,1070,0.513415188722146
+Valentin Paniagua,Frente de Centro,2005-10-11 2006-04-09,PE,2006,1101,1208,0.476829796448679
+Humberto Lay Su,Restauración Nacional,2005-10-11 2006-04-09,PE,2006,0,1027,0
+Susana Villaran,Concertación Descentralista,2005-10-11 2006-04-09,PE,2006,1553,1536,0.502751699579152
+Jaime Salinas,Justicia Nacional,2005-10-11 2006-04-09,PE,2006,705,929,0.431456548347613
+Javier Diez Canseco,Partido Socialista,2005-10-11 2006-04-09,PE,2006,1213,1107,0.522844827586207
+Natale Amprimo,Alianza Para el Progreso,2005-10-11 2006-04-09,PE,2006,887,967,0.478425026968716
+Pedro Koechlin Von Stein,Con Fuerza Perú,2005-10-11 2006-04-09,PE,2006,0,1098,0
+Alberto Moreno,Movimiento Nueva Izquierda,2005-10-11 2006-04-09,PE,2006,706,1215,0.367516918271734
+Ulises Humala Tasso,Avanza País,2005-10-11 2006-04-09,PE,2006,1007,1375,0.422753988245172
+Alberto Borea Odria,Fuerza Democrática,2005-10-11 2006-04-09,PE,2006,802,0,1
+Ciro Galvez Herrera,Renacimiento Andino,2005-10-11 2006-04-09,PE,2006,1030,984,0.51142005958292
+Javier Felipe Espinoza,Progresemos Perú,2005-10-11 2006-04-09,PE,2006,,,
+Jose Cardo Guardera,Reconstrucción Democrática,2005-10-11 2006-04-09,PE,2006,,,
+Antero Asto Flores,Resurgimiento Peruano,2005-10-11 2006-04-09,PE,2006,0,1176,0
+Ricardo Wong,Y se llama Perú,2005-10-11 2006-04-09,PE,2006,1315,1487,0.469307637401856
+Luis Guerrero Figueroa,Perú Ahora,2005-10-11 2006-04-09,PE,2006,0,1771,0
+Luis Lacalle Pou,Partido Nacional,2019-04-30 2019-10-27,UY,2019,499,1381,0.265425531914894
+Daniel Martínez,Frente Amplio,2019-04-30 2019-10-27,UY,2019,118,1283,0.0842255531763026
+Ernesto Talvi,Partido Colorado,2019-04-30 2019-10-27,UY,2019,985,1435,0.40702479338843
+Guido Manini Rios,Cabildo Abierto,2019-04-30 2019-10-27,UY,2019,703,930,0.430496019595836
+Cesar Vega,Partido Ecologista Radical Intrasigente,2019-04-30 2019-10-27,UY,2019,1194,0,1
+Edgardo Novick,Partido de la Gente,2019-04-30 2019-10-27,UY,2019,1187,1100,0.519020550940096
+Pablo Mieres,Partido Independiente,2019-04-30 2019-10-27,UY,2019,1103,1215,0.475841242450388
+Gonzalo Abella,Unidad Popular,2019-04-30 2019-10-27,UY,2019,1052,823,0.561066666666667
+Gustavo Salle,Partido Verde Animalista,2019-04-30 2019-10-27,UY,2019,1152,1306,0.468673718470301
+Daniel Goldman,Partido Digital,2019-04-30 2019-10-27,UY,2019,1335,952,0.583734149540883
+Rafael Fernández,Partido de los Trabajadores,2019-04-30 2019-10-27,UY,2019,0,933,0
+Tabare Vázquez,Frente Amplio,2014-04-29 2014-10-26,UY,2014,224,1446,0.134131736526946
+Luis Lacalle Pou,Partido Nacional,2014-04-29 2014-10-26,UY,2014,975,1454,0.401399752984767
+Pedro Bordaberry,Partido Colorado,2014-04-29 2014-10-26,UY,2014,1629,1630,0.499846578705124
+Pablo Mieres,Partido Independiente,2014-04-29 2014-10-26,UY,2014,802,1113,0.418798955613577
+Gonzalo Abella,Asamblea Popular,2014-04-29 2014-10-26,UY,2014,588,1012,0.3675
+Cesar Vega,Partido Ecologista Radical Intransigente,2014-04-29 2014-10-26,UY,2014,858,1403,0.379478107032287
+Rafael Fernandez,Partido de los Trabajadores,2014-04-29 2014-10-26,UY,2014,1499,1232,0.548883192969608
+José Mujica,Frente Amplio,2009-04-28 2009-10-25,UY,2009,1233,1703,0.419959128065395
+Luis Lacalle,Partido Nacional,2009-04-28 2009-10-25,UY,2009,908,1323,0.406992380098611
+Pedro Bordaberry,Partido Colorado,2009-04-28 2009-10-25,UY,2009,1498,1391,0.518518518518519
+Pablo Mieres,Partido Independiente,2009-04-28 2009-10-25,UY,2009,1100,1684,0.395114942528736
+Raúl Rodríguez,Asamblea Popular,2009-04-28 2009-10-25,UY,2009,0,1792,0
+Tabaré Vázquez,Frente Amplio,2004-05-04 2004-10-31,UY,2004,285,415,0.407142857142857
+Jorge Larrañaga,Partido Nacional,2004-05-04 2004-10-31,UY,2004,774,988,0.439273552780931
+Guillermo Stirling,Partido Colorado,2004-05-04 2004-10-31,UY,2004,788,941,0.455754771544245
+Pablo Mieres,Partido Independiente,2004-05-04 2004-10-31,UY,2004,659,665,0.49773413897281
+Victor Lissidini,Partido Intransigente,2004-05-04 2004-10-31,UY,2004,1085,1097,0.497250229147571
+Aldo Lamorte,Partido Union Civica,2004-05-04 2004-10-31,UY,2004,1384,0,1
+Julio Vera,Partido Liberal,2004-05-04 2004-10-31,UY,2004,1192,1105,0.518937744884632
+Rafael Fernandez,Partido de los Trabajadores,2004-05-04 2004-10-31,UY,2004,910,884,0.507246376811594
+Nicolas Maduro,Partido Socialista Unido de Venezuela,2017-11-21 2018-05-20,VE,2018,2492,433,0.851965811965812
+Henri Falcon,Avanzada Progresista,2017-11-21 2018-05-20,VE,2018,1072,614,0.63582443653618
+Javier Bertucci,Movimiento Esperanza por el Cambio,2017-11-21 2018-05-20,VE,2018,1826,0,1
+Reinaldo Quijada,Unidad Politica Popular 89,2017-11-21 2018-05-20,VE,2018,711,0,1
+Nicolas Maduro,Gran Polo Patriótico,2013-01-01 2013-04-14,VE,2013,1007,39,0.962715105162524
+Henrique Capriles,Mesa de la Unidad Democratica,2013-01-01 2013-04-14,VE,2013,1367,531,0.720231822971549
+Eusebio Méndez,Nueva Visión para mi País,2013-01-01 2013-04-14,VE,2013,983,0,1
+Maria Bolívar,Partido Democrático Unidos por la Paz y la Libertad,2013-01-01 2013-04-14,VE,2013,706,0,1
+Reina Sequera,Poder Laboral,2013-01-01 2013-04-14,VE,2013,657,651,0.502293577981651
+Julio Mora,Unidad Democrática,2013-01-01 2013-04-14,VE,2013,720,828,0.465116279069768
+Hugo Chávez,Gran Polo Patriotico,2012-04-10 2012-10-07,VE,2012,1102,1034,0.515917602996255
+Henrique Capriles,Unidad Democratica,2012-04-10 2012-10-07,VE,2012,1582,968,0.620392156862745
+Reina Sequera,Poder Laboral,2012-04-10 2012-10-07,VE,2012,1454,1362,0.516335227272727
+Luis Reyes Castillo,Organizacion Renovadora Auténtica,2012-04-10 2012-10-07,VE,2012,1826,0,1
+María Bolívar,Partido Democrático Unidos por la Paz y la Libertad,2012-04-10 2012-10-07,VE,2012,1802,0,1
+Orlando Chirino,Partido Socialismo y Libertad,2012-04-10 2012-10-07,VE,2012,792,0,1
+Hugo Chávez,Movimiento V República,2006-06-06 2006-12-03,VE,2006,1407,0,1
+Manuel Rosales,Un Nuevo Tiempo,2006-06-06 2006-12-03,VE,2006,1216,231,0.840359364201797
+Luis Reyes,Joven,2006-06-06 2006-12-03,VE,2006,879,679,0.56418485237484
+Venezuela da Silva,Nueva Orden Social,2006-06-06 2006-12-03,VE,2006,1313,0,1
+Carmelo Romano,Movimiento Liberal Pueblo Unido,2006-06-06 2006-12-03,VE,2006,797,0,1
+Alejandro Suarez,Movimiento Sentir Nacional,2006-06-06 2006-12-03,VE,2006,,,
+Pedro Aranguren,Movimiento Conciencia de Pais,2006-06-06 2006-12-03,VE,2006,773,0,1
+Jose Tineo,Venezuela Tercer Milenio,2006-06-06 2006-12-03,VE,2006,1831,0,1
+Yudith Salazar,Hijos de la Patria,2006-06-06 2006-12-03,VE,2006,0,973,0
+Angel Yrigoyen,Rompamos Cadenas,2006-06-06 2006-12-03,VE,2006,,,
+Homer Rodriguez,Por Querer a Venezuela,2006-06-06 2006-12-03,VE,2006,,,
+Isbelia Leon,Instituto Fuerza y Paz,2006-06-06 2006-12-03,VE,2006,,,

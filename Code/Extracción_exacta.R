@@ -1,7 +1,4 @@
-
-###########  CÓDIGO PARA EXTRACCIÓN DE DATOS DE GOOGLE TREND  ###########
-######            Y CÁLCULO DEL ÍNDICE DE PERSONALISMO        ######
-######                  SEGMENTADO MANUALMENTE                ######
+#### EXTRACCIÓN CON TÉRMINOS EXACTOS ####
 
 library(dplyr)
 library(purrr)
@@ -31,12 +28,19 @@ Base$year_ext <- as.numeric(format(Base$Date_i,'%Y'))
 # Filtro los candidatos independientes
 Base <- Base[Base$Party != "Independiente",]
 
+# Agrego comillas para busqueda exactas de texto
+Base$Candidate_exact <- paste0("'", Base$Candidate_exact, "'")
+Base$Party_exact <- paste0("'", Base$Party_exact, "'")
+
 # Y me quedo con las variables necesarias para la extracción
-Base_ext <- Base |> select(Candidate, Party, Date, GEO_code, Year)
+Base_ext <- Base |> select(Candidate_exact, Party_exact, Date, GEO_code, Year, Votes_perc)
+names(Base_ext) <- c("Candidate", "Party", "Date", "GEO_code", "Year", "Votes_perc") # Renombro para no adaptar más abajo
 
 # Para no superar el límite de extracción, debo dividir la base en segmentos de 
 # 90 pares candidatos-partidos cada uno
 # Y cada segmento debo transformarlo en lista para poder utilizar pmap
+
+
 
 a <- Sys.time() # Hora de comienzo
 
@@ -110,34 +114,32 @@ Daily <- unlistGtrend(E1) |> full_join(unlistGtrend(E2)) |>
         full_join(unlistGtrend(E7)) |> full_join(unlistGtrend(E8))
 
 # Exporto la extracción
-rio::export(Daily, file = here::here("Data/Daily", paste0("Daily","_",Sys.Date(),".csv")),format = "csv")
+rio::export(Daily, file = here::here("Data/Daily", paste0("Daily_exact","_",Sys.Date(),".csv")),format = "csv")
 
 # Segundo, para el índice calculado a nivel de partido
 
 Index <- E1p |> full_join(E2p) |> full_join(E3p) |> 
-                full_join(E4p) |> full_join(E5p) |> 
-                full_join(E6p) |> full_join(E7p) |> 
-                full_join(E8p)
+        full_join(E4p) |> full_join(E5p) |> 
+        full_join(E6p) |> full_join(E7p) |> 
+        full_join(E8p)
 
 # Exporto el dataset con el índice a nivel partido
-rio::export(Index, file = here::here("Data/Party", paste0("Party","_",Sys.Date(),".csv")),format = "csv")
+rio::export(Index, file = here::here("Data/Party", paste0("Party_exact","_",Sys.Date(),".csv")),format = "csv")
 
 
 # Tercero, ya con el cálculo del índice de personalismo a nivel de sistema
 
-Iagregado <- left_join(Base, Index)
+Iagregado <- left_join(Base_ext, Index)
 
 Iagregado$Index_ponderado <- Iagregado$indicador*Iagregado$Votes_perc
 
-Iagregado <- doBy::summary_by(Iagregado, Index_ponderado~Country+Year, 
-                            FUN = sum, na.rm=T)
+Iagregado <- doBy::summary_by(Iagregado, Index_ponderado~GEO_code+Year, 
+                              FUN = sum, na.rm=T)
 
 # Exporto el dataset con el índice a nivel sistema
-rio::export(Iagregado, file = here::here("Data/System", paste0("System","_",Sys.Date(),".csv")),format = "csv")
-
+rio::export(Iagregado, file = here::here("Data/System", paste0("System_exact","_",Sys.Date(),".csv")),format = "csv")
 
 
 # Tiempo de extracción
 t <- b-a
 print(t)
-

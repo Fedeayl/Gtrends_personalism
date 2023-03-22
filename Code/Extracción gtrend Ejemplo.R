@@ -9,7 +9,7 @@ library(dplyr)
 
 # Defino Data como base de ejemplo
 Data <- rbind.data.frame(
-             c("José Mujica","Frente Amplio", 2009, "2009-06-01 2009-11-29", "UY"),
+             c("José Mujica - Frente Amplio","Frente Amplio - Mujica", 2009, "2009-06-01 2009-11-29", "UY"),
              c("Luis Alberto Lacalle", "Partido Nacional", 2009, "2009-06-01 2009-11-29", "UY"),
              c("Mauricio Macri", "Cambiemos", 2015, "2015-04-24 2015-10-24", "AR"),
              c("Daniel Scioli", "Frente para la victoria", 2015, "2015-04-24 2015-10-24", "AR"))
@@ -26,7 +26,7 @@ ext <- list(Data$candidate, Data$party, Data$date, Data$geo) # Transformo en lis
 
 extractgoogle <- function(x1,x2,y,z){
                         gtrendsR::gtrends(keyword = c(x1, x2), time=y, geo = z, 
-                           category = 396, onlyInterest = T, gprop = "web")}
+                           category = 396, onlyInterest = F, gprop = "web")}
 
 # Realizo la extración, usando la base creada como argumentos variables (cada fila es una extracción)
 EXCT <- purrr::pmap(.l =ext , .f = extractgoogle)

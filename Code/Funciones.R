@@ -8,6 +8,7 @@ extractgoogle <- function(x1,x2,y,z){
         gtrendsR::gtrends(keyword = c(x1, x2), time=y, geo = z, 
                           category = 396, onlyInterest = T, gprop = "web")}
 
+
 # Es necesario que los datos estén estructurados en 4 variables: 
 #       * Candidato y Partido como keywords (string)
 #       * El período de extracción en el formato "YYYY-MM-DD YYYY-MM-DD" (string)
@@ -75,7 +76,7 @@ unlistGtrend <- function(x){
         x$year <- ifelse(x$geo == "PE" & x$year == 2005, 2006, x$year)
         
         x$year <- ifelse(x$geo == "VE" & x$year == 2017, 2018, x$year)
-        x$year <- ifelse(x$geo == "VE" & x$year == 2012, 2013, x$year)
+        #x$year <- ifelse(x$geo == "VE" & x$year == 2012, 2013, x$year)
         
         return(x)
         
